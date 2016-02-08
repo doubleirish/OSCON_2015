@@ -11,7 +11,7 @@ Markdown
 
 ## KeyNotes
 
-*   ### Making things open - Hadley Beeman (U.K. Government | W3C)
+### Making things open - Hadley Beeman (U.K. Government | W3C)
 
     Openness is good for Government on many levels ” open data, open standards, open source, open markets. Where we set the way we work in Government, its important to let industry determine the technical standards we work with.
 
@@ -19,7 +19,7 @@ Markdown
 
 *   00:06:54 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Open Source Lynchpins in 2015: the Anti-Venom to Vendor Lock-in - Angel Diaz (IBM)
+### Open Source Lynchpins in 2015: the Anti-Venom to Vendor Lock-in - Angel Diaz (IBM)
 
     Dr. Angel Diaz, IBM VP Cloud Architecture & Technology, provides a retrospective on the evolution of open source from the old ways in the early years to todays new model of code, community and culture which brings together users and developers to accelerate innovation.
 
@@ -27,7 +27,7 @@ Markdown
 
 *   00:13:54 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### How Facebook open sources at scale - James Pearce (Facebook)
+### How Facebook open sources at scale - James Pearce (Facebook)
 
     Ship a lot, or ship fast? These goals may seem to be at odds, but it's actually possible to have large, diverse portfolios of open source projects and maintain a fast-moving, iterative approach. In this talk, Facebook's open source lead James Pearce will discuss how Facebook is able to ship open source products twice a week and maintain quality, size, and speed.
 
@@ -35,7 +35,7 @@ Markdown
 
 *   00:13:42 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### They're here. Now what? - Allison Randal (Hewlett-Packard and Open Source Initiative)
+### They're here. Now what? - Allison Randal (Hewlett-Packard and Open Source Initiative)
 
     The early days of the open source movement were all about creating an approachable on-ramp to software freedom. We focused strongly on practical benefits of free software and refined the message, hoping to help the professional software sector better understand. We succeeded but success in our first goal doesn't mean we're done, it means we're due to clearly define the next phase of open source.
 
@@ -43,7 +43,7 @@ Markdown
 
 *   00:09:49 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### The future is awesome (and what you can do about it) - Paul Fenwick (Perl Training Australia)
+### The future is awesome (and what you can do about it) - Paul Fenwick (Perl Training Australia)
 
     The 21st century is a time with an unprecendented expansion of ideas, culture, technology, information, and global justice. Compared to any ther point in history, humans are *flourishing*. Yet the way in which we think about the world”and our shared future in it”has not accelerated at the same pace. Join us to find out why the future is awesome, and what you can do about it.
 
@@ -51,7 +51,7 @@ Markdown
 
 *   00:09:49 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Advancing open containers through Pan-Industry collaboration - Jim Zemlin (The Linux Foundation)
+### Advancing open containers through Pan-Industry collaboration - Jim Zemlin (The Linux Foundation)
 
     Jim will provide an update on the latest news from the open source community regarding containers technologies. The Open Container Initiative, formerly known as the Open Container Project, was announced just last month and Zemlin will share the latest information on these efforts and what comes next.
 
@@ -59,7 +59,7 @@ Markdown
 
 *   00:08:15 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Making architecture matter - Martin Fowler (ThoughtWorks)
+### Making architecture matter - Martin Fowler (ThoughtWorks)
 
     Software architecture is important, but shouldn't lead to bureaucratic burdens.
 
@@ -67,7 +67,7 @@ Markdown
 
 *   00:13:59 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Getting started with InnerSource - Danese Cooper (PayPal) , Arnold Goldberg (PayPal) , and Manish Jain (PayPal)
+### Getting started with InnerSource - Danese Cooper (PayPal) , Arnold Goldberg (PayPal) , and Manish Jain (PayPal)
 
     InnerSource is what we call using open source tools and methodologies inside a company to improve engineering practices, and it's gained a foothold at PayPal. We've found it useful for helping to break down engineering silos, increasing emphasis on code craftsmanship and, more generally, for increasing employee collaboration and satisfaction.
 
@@ -75,7 +75,7 @@ Markdown
 
 *   00:14:24 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### The making of a cloud native application platform - Sam Ramji (Cloud Foundry Foundation)
+### The making of a cloud native application platform - Sam Ramji (Cloud Foundry Foundation)
 
     It wasnt too long ago that artisans, bathed in the glow of molten metal, forged parts that would go on to make up bigger, more powerful machines. Today, we call those artisans developers. Instead of metal, they use bits and bytes in the cloud to forge a modern application architecture.
 
@@ -83,7 +83,7 @@ Markdown
 
 *   00:15:33 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### On change-making at the largest public interest startup - Mikey Dickerson (Federal Government | United States Digital Services Team)
+### On change-making at the largest public interest startup - Mikey Dickerson (Federal Government | United States Digital Services Team)
 
     The Federal Governments approach to technology is outdated and maddening. But this dysfunction didnt come out of thin air”its rooted in deep, structural realities. Less than a year old, the U.S. Digital Service is hacking bureaucracy and improving services millions rely on every day. Mikey will talk about how that work is going and how the group is spurring change in the open.
 
@@ -91,7 +91,7 @@ Markdown
 
 *   00:19:59 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Hacking Conway's Law - Raffi Krikorian (Uber Advanced Technologies Center)
+### Hacking Conway's Law - Raffi Krikorian (Uber Advanced Technologies Center)
 
     Re-architecting a system is wrought with problems. However, what we can sometimes forget is the most important aspect of any project: the team! Your team, who miraculously survives these projects, has to continue to change with your business and your technology! But, don't fret, we can architect our way towards this way of thinking!
 
@@ -99,7 +99,7 @@ Markdown
 
 *   00:13:36 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### From analog to digital and back - George Dyson (Independent)
+### From analog to digital and back - George Dyson (Independent)
 
     Nature uses digital coding for replication, storage, and error correction, but relies on analog coding for control. Technology will follow. We are starting to treat streams of bits the way vacuum tubes treat streams of electrons, implementing analog processing upon a digital substrate, the same way digital processing was implemented using analog components, the first time around.
 
@@ -107,7 +107,7 @@ Markdown
 
 *   00:10:02 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Undefinable me: The story of a 13-year-old girl from the inner city who codes - Keila Banks (Student)
+### Undefinable me: The story of a 13-year-old girl from the inner city who codes - Keila Banks (Student)
 
     Keila Banks is a 13-year-old African-American girl in the inner city - her talk will be about her story and how people around the world can do coding and computer stuff at any age, with just a little motivation.
 
@@ -115,7 +115,7 @@ Markdown
 
 *   00:09:38 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Situation normal, everything must change - Simon Wardley (Leading Edge Forum (CSC))
+### Situation normal, everything must change - Simon Wardley (Leading Edge Forum (CSC))
 
     From Portlandias capa chuchu chuchu tea to Texas where Everything is so BIG that they only have data, OSCON is moving. In this farewell talk to Portland, we will cover the history of navigation from stories to maps, the unexplored lands of open sources future and the territories open source has already conquered.
 
@@ -209,7 +209,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:42:09 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Microservices with Spring Cloud and Netflix OSS - Spencer Gibb (Pivotal) - Part 4
+### Microservices with Spring Cloud and Netflix OSS - Spencer Gibb (Pivotal) - Part 4
 
     Building an application using microservices and don't know where to start? How do services find each other? How do I configure many instances of each service? How do I see what's going on with my services? If you've asked these questions, this session will give you some answers using Spring Cloud and Netflix OSS to create microservices that are robust, discoverable, scalable & configurable.
 
@@ -217,7 +217,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:38:56 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### The paradox of technology choice - Michelle Brush (Cerner Corporation)
+### The paradox of technology choice - Michelle Brush (Cerner Corporation)
 
     The number of frameworks, patterns, platforms, and APIs available has exploded. Defining the architecture of a system requires navigating a sea of options. This talk frames architectural decisions in the context of behavioral economics. It covers how good or bad choice architecture can impact the software architecture and how organizations can guide engineers toward better choices.
 
@@ -225,7 +225,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:37:29 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Microservices. Microservices everywhere! - JÃ©rÃ´me Petazzoni (Docker Inc.)
+### Microservices. Microservices everywhere! - JÃ©rÃ´me Petazzoni (Docker Inc.)
 
     Thanks to Docker and containers, microservices architectures are no longer reserved to large organizations like Netflix or Amazon. Let's review the benefits of those architectures, for Devs and Ops, in projects big and small, and how to realize them with the open source container technology available today.
 
@@ -233,7 +233,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:31:18 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Space, time, and state - Amy Palamountain (GitHub)
+### Space, time, and state - Amy Palamountain (GitHub)
 
     Reactive programming is the trendy new way to build desktop and mobile apps. Reacting to user input over time can prove to be difficult, because of the enormous amount of state we need to keep track of. In this talk we will discover how to improve our reactive applications by removing the need for state entirely. This allows us to clearly reason about, and react to, user input over time.
 
@@ -241,7 +241,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:31:20 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Designing for failure: How Uber scaled its realtime market platform - Matt Ranney (Uber)
+### Designing for failure: How Uber scaled its realtime market platform - Matt Ranney (Uber)
 
     As Uber moves into new markets with new services, designing for high availability and scalability presents some interesting challenges. Even brief outages in the service are very costly, with real-world impact on people's lives. This talk will cover the Uber architecture and how it handles every failure we can think of.
 
@@ -249,7 +249,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:37:22 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Java-based microservices, containers, Kubernetes - how to - Ray Tsang (Google)
+### Java-based microservices, containers, Kubernetes - how to - Ray Tsang (Google)
 
     Join this session to learn how to create a Java-based microservice using Spring Boot, containerize it using Maven plugins, and subsequently deploy a fleet of microservices and dependent components such as Redis using Kubernetes. Toward the end of the session, let's take a look at how we can apply the same patterns to other runtimes, such as Vert.x and Grails.
 
@@ -257,7 +257,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:42:01 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### CoreOS DNA on Debian - Patrick Galbraith (Hewlett Packard)
+### CoreOS DNA on Debian - Patrick Galbraith (Hewlett Packard)
 
     The HP Advanced Technology Group recently created a proof of concept to build CoreOS components - Docker, Fleet, and Etcd - on top of Debian, using Ansible and HP Cloud Virtual Machines to demonstrate the power and flexibility of a clustered Docker architecture. This talk will cover how our team built this proof of concept and show a ELK Stack demonstration application running on the cluster.
 
@@ -265,7 +265,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:48:14 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Building Release Pipelines on the Open Web - Ryan Jarvinen (Red Hat)
+### Building Release Pipelines on the Open Web - Ryan Jarvinen (Red Hat)
 
     Learn how to build workflows that can help automate each part of your project's release lifecycle (build, test, review, merge, deployment, reporting, etc). We'll take a look at common language-based build tools, and learn how to set up Jenkins and/or Travis for build work and continuous integration (CI). Then, we'll compare various cloud deployment targets and learn about continuous delivery (CD).
 
@@ -273,7 +273,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:39:12 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Refactoring systems with confidence - Jesse Toth (GitHub) and Nathan Witmer (GitHub)
+### Refactoring systems with confidence - Jesse Toth (GitHub) and Nathan Witmer (GitHub)
 
     This talk will tell the story of a large-scale refactoring of our permissions model at GitHub. Well explain the problem, our solution, and then go over the tools we built, the techniques we used, and the lessons we learned while replacing this critical piece of our application live, side-by-side, and in production.
 
@@ -281,7 +281,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:34:21 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Stop writing Javascript frameworks - Joseph Gregorio (Google)
+### Stop writing Javascript frameworks - Joseph Gregorio (Google)
 
     JavaScript frameworks seem like death and taxes; inevitable and unavoidable. But that's not the way it needs to be, and actually, it must stop. A talk based on the zer framework manifesto: http://bitworking.org/news/2014/05/zero_framework_manifesto
 
@@ -289,7 +289,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:34:37 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Reactive front end - Martin Gontovnikas (Auth0)
+### Reactive front end - Martin Gontovnikas (Auth0)
 
     There's been a lot of talk about reactive programming lately, but nobody really knows exactly what it is. I'll first talk a little bit about what reactive programming is, and then we'll dive into practical examples on how to use it with any front-end technology and particularly with AngularJS. We'll see how beautiful and clean our code can be when we use reactive code in the front end.
 
@@ -297,7 +297,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:37:30 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Test-driven repair - Christopher Neugebauer (@chrisjrn)
+### Test-driven repair - Christopher Neugebauer (@chrisjrn)
 
     Test-driven development's great, but what happens when you find yourself working on code where automated testing took a back seat to being shipped? This talk looks at techniques for automated testing of late-stage or even production code, and how to use this to fix bugs in your code. Testing late in life isn't a lost cause any more!
 
@@ -305,7 +305,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:29:04 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Choose boring technology - Dan McKinley (Stripe)
+### Choose boring technology - Dan McKinley (Stripe)
 
     How do you choose the technology to run your business? You should use the best tools for the job, of course. But the precise definitions of the words "best" and "job" are tricky. This talk gives these terms shape, and introduces a framework for thinking about new technology rigorously, holistically, and systematically.
 
@@ -313,7 +313,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:27:43 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Migrating PHP runtimes to HHVM: Taking the plunge - Joe Marrama (Box)
+### Migrating PHP runtimes to HHVM: Taking the plunge - Joe Marrama (Box)
 
     Changing the engine that runs a large PHP application is fraught with hidden dangers but comes with large rewards. In this talk, I'll detail the process Box went through to safely make the transition to running our production site on top of HHVM.
 
@@ -321,7 +321,7 @@ Building an application using microservices and don't know where to start? How d
 
 *   00:40:48 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Programming single-page applications - Brian Capouch (Saint Josephs College), Nathan Samano (Saint Joseph's College (Indiana)), and Craig Austgen (Saint Joseph's College)
+### Programming single-page applications - Brian Capouch (Saint Josephs College), Nathan Samano (Saint Joseph's College (Indiana)), and Craig Austgen (Saint Joseph's College)
 
     Single-page web applications offer users a rich, responsive experience, utilizing the browser as an application platform. We provide a framework-agnostic introduction to programming single-page applications, considered generically. Server- and client-side routing, module API surfacing, bookmarking, and SEO strategies must be carefully managed in an SPA environment.
 
@@ -619,7 +619,7 @@ Many conference attendees come year after year without giving presentations. The
 
 *   00:38:27 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Help! I want to contribute to an open source project but my boss says no - Patrick McFadin (Datastax)
+### Help! I want to contribute to an open source project but my boss says no - Patrick McFadin (Datastax)
 
     You love using open source software. It's done right by you and now you want to contribute back. You get your patch all ready and... the boss says No! Don't feel alone. Enterprises everywhere are trying to figure this out. I'll walk you through the risks to business that actually exist and how you can help manage them. Maybe armed with this information your boss will say... Yes!
 
@@ -627,7 +627,7 @@ Many conference attendees come year after year without giving presentations. The
 
 *   00:45:42 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Constructive conflict resolution - Donna Benjamin (Creative Contingencies) and Gina Likins (Red Hat)
+### Constructive conflict resolution - Donna Benjamin (Creative Contingencies) and Gina Likins (Red Hat)
 
     Conflict can be constructive. Testing ideas by challenging them with alternatives is a useful process. But it can be uncomfortable and confronting for many people. Let's discuss how we can build a culture of respect to embrace the positive aspects of conflict and work together better.
 
@@ -1171,31 +1171,31 @@ You've dabbled a little in version control using Git. You can follow along with 
 
 *   00:46:25 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Erlang: Inspiring software - Garrett Smith (CloudBees) and Francesco Cesarini (Erlang Solutions Ltd) - Part 1
+### Erlang: Inspiring software - Garrett Smith (CloudBees) and Francesco Cesarini (Erlang Solutions Ltd) - Part 1
 
     Erlang is a programming language designed for the internet age, although it predates the web. It is a language designed for multi-core computers, although it predates them too. In this tutorial, Francesco and Garrett will present the features that make Erlang a trendsetter and give you a context for using it as strategic tool in your software arsenal.
 
 *   00:43:20 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Erlang: Inspiring software - Garrett Smith (CloudBees) and Francesco Cesarini (Erlang Solutions Ltd) - Part 2
+### Erlang: Inspiring software - Garrett Smith (CloudBees) and Francesco Cesarini (Erlang Solutions Ltd) - Part 2
 
     Erlang is a programming language designed for the internet age, although it predates the web. It is a language designed for multi-core computers, although it predates them too. In this tutorial, Francesco and Garrett will present the features that make Erlang a trendsetter and give you a context for using it as strategic tool in your software arsenal.
 
 *   00:38:44 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Erlang: Inspiring software - Garrett Smith (CloudBees) and Francesco Cesarini (Erlang Solutions Ltd) - Part 3
+### Erlang: Inspiring software - Garrett Smith (CloudBees) and Francesco Cesarini (Erlang Solutions Ltd) - Part 3
 
     Erlang is a programming language designed for the internet age, although it predates the web. It is a language designed for multi-core computers, although it predates them too. In this tutorial, Francesco and Garrett will present the features that make Erlang a trendsetter and give you a context for using it as strategic tool in your software arsenal.
 
 *   00:43:22 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Erlang: Inspiring software - Garrett Smith (CloudBees) and Francesco Cesarini (Erlang Solutions Ltd) - Part 4
+### Erlang: Inspiring software - Garrett Smith (CloudBees) and Francesco Cesarini (Erlang Solutions Ltd) - Part 4
 
     Erlang is a programming language designed for the internet age, although it predates the web. It is a language designed for multi-core computers, although it predates them too. In this tutorial, Francesco and Garrett will present the features that make Erlang a trendsetter and give you a context for using it as strategic tool in your software arsenal.
 
 *   00:57:08 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Visualizing program execution - Jan Paul Posma (Brigade)
+### Visualizing program execution - Jan Paul Posma (Brigade)
 
     We dont see how code executes. We take peeks, using console.logs and breakpoints, but they dont tell the whole story. This talk shows future toolmakers and (non-) visual thinkers how to take off our blindfolds.
 
@@ -1203,7 +1203,7 @@ You've dabbled a little in version control using Git. You can follow along with 
 
 *   00:40:54 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### You type "google.com" into your browser bar and press enter: What happens next? - Graeme Mathieson (Wossname Industries)
+### You type "google.com" into your browser bar and press enter: What happens next? - Graeme Mathieson (Wossname Industries)
 
     We'll take a deep dive down the stack, into how the internet works to magically make Google's home page appear in our web browser. Topics will range from URL parsing and DNS resolution, through HTTP, TCP, IP, and routing, and all the way back up to browser rendering.
 
@@ -1211,43 +1211,43 @@ You've dabbled a little in version control using Git. You can follow along with 
 
 *   00:36:20 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### How to think in Go: Stories from a Perl developer turned Go developer - Daisuke Maki (HDE Inc)
+### How to think in Go: Stories from a Perl developer turned Go developer - Daisuke Maki (HDE Inc)
 
     Go is quickly becoming one of the many must-have items in our toolboxes. In this talk I will describe the common pitfalls and misunderstandings for people who have an extensive background in interpreted languages like myself. I will tell you all about my failures so you don't have to repeat them!
 
 *   00:34:45 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### A rebasing workflow for Git - Emma Jane Hogbin Westby (Git for Teams)
+### A rebasing workflow for Git - Emma Jane Hogbin Westby (Git for Teams)
 
     You've decided to level up your Git skills and have heard that rebasing is where it's at. In this session we'll talk about: WHY rebasing can make it easier to untangle your project's history; WHEN you should use rebase; WHAT rebasing actually does to your repository; and HOW it actually looks when things go right (and how to recover when things go wrong).
 
 *   00:28:56 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Unicode beyond just characters: Localization with the CLDR - Nova Patch (Shutterstock)
+### Unicode beyond just characters: Localization with the CLDR - Nova Patch (Shutterstock)
 
     Unicode is much more than just characters. The Unicode Consortium defines open standards for collating, parsing, and formatting data in much of the worlds languages. The Common Locale Data Repository (CLDR) is the largest standard repository of locale data along with specifications for its use, and is a powerful resource for software localization.
 
 *   00:36:51 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### A general theory of reactivity - Kris Kowal (Uber)
+### A general theory of reactivity - Kris Kowal (Uber)
 
     Promises, streams, observables, and behaviors are some of the building blocks of event driven programming. What makes each of these tick and when would you choose one over another?
 
 *   00:35:38 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Asp.net vNext: Hey, Asp.net isn't just for enterprise - Maria Naggaga (Microsoft)
+### Asp.net vNext: Hey, Asp.net isn't just for enterprise - Maria Naggaga (Microsoft)
 
     ASP.Net vNext, the open source version of the .Net series, has opened up its framework to an entirely new web developer community. The cool thing about this lean framework is you can get ASP.NET from Mac to PC using either Visual Studio Community or Sublime. In this demo, I will be going through the tools and frameworks you need to get ASP.NET vNext running on OS X Yosemite.
 
 *   00:46:10 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Handle your design conundrums with modern Python design patterns - Anna Martelli Ravenscroft (Self) and Alex Martelli (Google)
+### Handle your design conundrums with modern Python design patterns - Anna Martelli Ravenscroft (Self) and Alex Martelli (Google)
 
     Many classic design patterns and traditional Python idioms remain relevant today. However, the language has grown, the problem spaces we address keep shifting, and best practices for software development have matured. Thus, the set of best-of-breed patterns and idioms has changed, some classics fading, new stars emerging. This talk explores today's realities in Python patterns and idioms.
 
 *   00:35:56 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### This is why you fail: The avoidable mistakes open source projects STILL make - Tom "spot" Callaway (Red Hat)
+### This is why you fail: The avoidable mistakes open source projects STILL make - Tom "spot" Callaway (Red Hat)
 
     In true open source fashion, a community's failures are often as visible as their successes. Failing can provide a learning experience, but many mistakes are still made which can easily be avoided, even by experienced open source communities. Learn about these points of fail that open source projects have experienced, and see how badly your favorite FOSS project fails.
 
@@ -1257,7 +1257,7 @@ You've dabbled a little in version control using Git. You can follow along with 
 
 *   00:44:44 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### Using Docker to simplify distributed systems development - John Hugg (VoltDB)
+### Using Docker to simplify distributed systems development - John Hugg (VoltDB)
 
     One challenge in building distributed systems is actually running and testing distributed systems. This session will show how developers at VoltDB simplify development and testing using Docker and other container technologies.
 
@@ -1265,7 +1265,7 @@ You've dabbled a little in version control using Git. You can follow along with 
 
 *   00:36:59 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### How to write a specification: Implementing a library in seven programming languages - James Saryerwinnie (AWS)
+### How to write a specification: Implementing a library in seven programming languages - James Saryerwinnie (AWS)
 
     In this talk, I'll show you how to write a straightforward specification that is easy to implement in any programming language. I'll do this by sharing the story of JMESPath, a query language for JSON that currently has implementations in seven languages, and the lessons learned in creating the JMESPath specification. You'll leave ready to write easy-to-implement specifications.
 
@@ -1273,13 +1273,13 @@ You've dabbled a little in version control using Git. You can follow along with 
 
 *   00:27:53 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### IPython Notebook best practices for data science - Jonathan Whitmore (Silicon Valley Data Science)
+### IPython Notebook best practices for data science - Jonathan Whitmore (Silicon Valley Data Science)
 
     The IPython Notebook is perfect for many data science tasks, including rapid iteration for data munging and cleaning; exploration and visualization; creating a transparent data processing pipeline workflow; and beautiful presentation of results. This talk will explore overall best practices, with special attention to these use cases and how to get the most out of IPython Notebook for each one.
 
 *   00:37:08 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
-*   ### The art of troubleshooting - Jason Maxham (The Art Of Troubleshooting)
+### The art of troubleshooting - Jason Maxham (The Art Of Troubleshooting)
 
     It's something we all do, but how it's done can be haphazard. I'm talking about troubleshooting, an often under appreciated skill. This talk will get you thinking about this critical discipline in a more formal way. We'll cover: Strategies: recipes to quickly get you from "broken" to "fixed"; Virtues: the mindset and behavior of a good troubleshooter; Cleaning up: learning from failures.
 
