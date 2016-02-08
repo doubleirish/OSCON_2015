@@ -1,6 +1,4 @@
-# OSCON_2015
-review of 342 OSCON 2015 videos
-# OSCON 2015
+# reviewed 154 of 340 OSCON 2015 videos
 
 <div id="tocDiv" dir="ltr">
 
@@ -14,11 +12,15 @@ review of 342 OSCON 2015 videos
 
     Openness is good for Government on many levels ” open data, open standards, open source, open markets. Where we set the way we work in Government, its important to let industry determine the technical standards we work with.
 
+    > Conor – gov.uk has a github account and expends effort on ensuring open document standards [video](http://www.youtube.com/embed/B-byE3nwbpE?autoplay=1)
+
 *   00:06:54 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 *   ### Open Source Lynchpins in 2015: the Anti-Venom to Vendor Lock-in - Angel Diaz (IBM)
 
     Dr. Angel Diaz, IBM VP Cloud Architecture & Technology, provides a retrospective on the evolution of open source from the old ways in the early years to todays new model of code, community and culture which brings together users and developers to accelerate innovation.
+
+    > Conor – ibm hawks it's opensource credentials and cloud solution , [slides dropbox](https://www.dropbox.com/s/iltw36budmc5uh4/Diaz-OSCON.20150720c-selected.ppt?dl=0) , [youtube video](http://www.youtube.com/embed/fmnA6AHb34I?autoplay=1) , [ibm devops](http://www.ibm.com/ibm/devops/us/en/) , [ibm bluemix](http://www.ibm.com/cloud-computing/bluemix/)
 
 *   00:13:54 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -26,11 +28,15 @@ review of 342 OSCON 2015 videos
 
     Ship a lot, or ship fast? These goals may seem to be at odds, but it's actually possible to have large, diverse portfolios of open source projects and maintain a fast-moving, iterative approach. In this talk, Facebook's open source lead James Pearce will discuss how Facebook is able to ship open source products twice a week and maintain quality, size, and speed.
 
+    > Conor – gov.uk has a github account and expends effort on ensuring open document standards [facebook projects](https://code.facebook.com/projects/)
+
 *   00:13:42 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 *   ### They're here. Now what? - Allison Randal (Hewlett-Packard and Open Source Initiative)
 
     The early days of the open source movement were all about creating an approachable on-ramp to software freedom. We focused strongly on practical benefits of free software and refined the message, hoping to help the professional software sector better understand. We succeeded but success in our first goal doesn't mean we're done, it means we're due to clearly define the next phase of open source.
+
+    > Conor – comparison of opensource and sound barrier
 
 *   00:09:49 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -46,13 +52,15 @@ review of 342 OSCON 2015 videos
 
     Jim will provide an update on the latest news from the open source community regarding containers technologies. The Open Container Initiative, formerly known as the Open Container Project, was announced just last month and Zemlin will share the latest information on these efforts and what comes next.
 
+    > Conor – open container initative. comparison bwtween the acceleration achieved in the shipping industry when it adopted a container standard vs alinux container standard [opencontainers.org](https://opencontainers.org)
+
 *   00:08:15 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 *   ### Making architecture matter - Martin Fowler (ThoughtWorks)
 
     Software architecture is important, but shouldn't lead to bureaucratic burdens.
 
-> Conor– Recommended – Discusses the question "what is architecture ?"
+    > Conor– Recommended – Discusses the question "what is architecture ?"
 
 *   00:13:59 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -68,6 +76,8 @@ review of 342 OSCON 2015 videos
 
     It wasnt too long ago that artisans, bathed in the glow of molten metal, forged parts that would go on to make up bigger, more powerful machines. Today, we call those artisans developers. Instead of metal, they use bits and bytes in the cloud to forge a modern application architecture.
 
+    > Conor- standards for containers, and container-orchestration ,[cloudfoundry](https://www.cloudfoundry.org/) ,[cloud native computing](https://cncf.io/)
+
 *   00:15:33 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 *   ### On change-making at the largest public interest startup - Mikey Dickerson (Federal Government | United States Digital Services Team)
@@ -82,7 +92,7 @@ review of 342 OSCON 2015 videos
 
     Re-architecting a system is wrought with problems. However, what we can sometimes forget is the most important aspect of any project: the team! Your team, who miraculously survives these projects, has to continue to change with your business and your technology! But, don't fret, we can architect our way towards this way of thinking!
 
-    > Conor – conway's law states that our system architecture will tend to match our departmental structure.
+    > Conor – conway's law states that our system architecture will tend to match our departmental structure. suggests refactoring your teams like you refactor your code.
 
 *   00:13:36 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -90,25 +100,17 @@ review of 342 OSCON 2015 videos
 
     Nature uses digital coding for replication, storage, and error correction, but relies on analog coding for control. Technology will follow. We are starting to treat streams of bits the way vacuum tubes treat streams of electrons, implementing analog processing upon a digital substrate, the same way digital processing was implemented using analog components, the first time around.
 
+    > Conor – a brief travel on the origins and players in modern computing and how we're starting to turn back to analog non-deterministic systems like deep learning to solve the truly hard problems
+
 *   00:10:02 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 *   ### Undefinable me: The story of a 13-year-old girl from the inner city who codes - Keila Banks (Student)
 
     Keila Banks is a 13-year-old African-American girl in the inner city - her talk will be about her story and how people around the world can do coding and computer stuff at any age, with just a little motivation.
 
+    > Conor – a video to watch with your kids
+
 *   00:09:38 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
-
-*   ### Frank Willison Memorial Award Presentation
-
-    From OSCON 2015 in Portland, the Frank Willison Memorial Award is presented for contribution to the Python community. Congratulations to its recipient, Jessica McKellar.
-
-*   00:01:58 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
-
-*   ### O'Reilly Open Source Awards
-
-    The 11th Annual OReilly Open Source Award winners will be announced.
-
-*   00:05:05 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 *   ### Situation normal, everything must change - Simon Wardley (Leading Edge Forum (CSC))
 
@@ -160,7 +162,7 @@ review of 342 OSCON 2015 videos
 
         In this tutorial, you will learn about the motivations for using the microservice architecture and how it compares with more traditional monolithic architecture. We discuss the benefits and drawbacks of microservices. You will learn about strategies for refactoring a monolithic application into a set of microservices.
 
-        > Conor - Highly Recommended - how to break up or partition your app into MS. Also Covers Deployment strategies e.g mulltiple services per host, service per vm , service per container ,etc. INcludes start of communication patterns e.g API gateway. lots of useful links e.g http://techblog.netflix.com/ lots of cool links for further info.
+        > Conor - Highly Recommended - how to break up or partition your app into MS. Also Covers Deployment strategies e.g mulltiple services per host, service per vm , service per container ,etc. INcludes start of communication patterns e.g API gateway. lots of useful links e.g [http://techblog.netflix.com/](http://techblog.netflix.com/) lots of cool links for further info.
 
     *   00:48:09 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -264,7 +266,7 @@ review of 342 OSCON 2015 videos
 
     Learn how to build workflows that can help automate each part of your project's release lifecycle (build, test, review, merge, deployment, reporting, etc). We'll take a look at common language-based build tools, and learn how to set up Jenkins and/or Travis for build work and continuous integration (CI). Then, we'll compare various cloud deployment targets and learn about continuous delivery (CD).
 
-    > Conor – shows how to use openshift (paas) for deploying services. although probably not suitable for IPC, it did show how one could integrate their github repo with a jenkins container runnin on a free openshift account (3 containers are free) to get a status on their github repo to show the code quality of the github repo
+    > Conor – shows how to use openshift (paas) for deploying services. Shows how one could integrate their github repo with a jenkins container runnin on a free openshift account (3 containers are free) to get a status on their github repo to show the code quality of the github repo
 
 *   00:39:12 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -312,7 +314,7 @@ review of 342 OSCON 2015 videos
 
     Changing the engine that runs a large PHP application is fraught with hidden dangers but comes with large rewards. In this talk, I'll detail the process Box went through to safely make the transition to running our production site on top of HHVM.
 
-    > conor - Box describes how they use the HHVM to speed up PHP. hhvm developed by facebook will first interpret the php and the compile to assembly after multiple runthroughs . it's basically the Java JVM for PHP. but one that requires "warming up" and still can have garbage collection issues . some of the techniques they use for deployment are appropriate for any major new deployment.
+    > Conor - Box describes how they use the HHVM to speed up PHP. hhvm developed by facebook will first interpret the php and the compile to assembly after multiple runthroughs . it's basically the Java JVM for PHP. but one that requires "warming up" and still can have garbage collection issues . some of the techniques they use for deployment are appropriate for any major new deployment.
 
 *   00:40:48 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -356,7 +358,7 @@ review of 342 OSCON 2015 videos
 
         In this new workshop, Jono Bacon, leading community manager from Ubuntu and XPRIZE, author of _The Art of Community_, and founder of the Community Leadership Summit, will share key lessons for how to build a strong and empowered community, navigate internal teams, build buy-in and governance, manage conflict, and more. Come and get the behind-the-scenes recipe for building a strong community.
 
-        > conor - how to create quality measures on the growth of your project. for futher articles see from this presenter see [bacon blog](http://opensource.com/tags/six-degrees-column)
+        > Conor - how to create quality measures on the growth of your project. for futher articles see from this presenter see [bacon blog](http://opensource.com/tags/six-degrees-column)
 
     *   00:41:13 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -468,7 +470,7 @@ review of 342 OSCON 2015 videos
 
         When companies start adopting open source, they face common challenges, like how do you contribute back or what do you even open source. Companies like Google, Intel, Facebook, and Twitter have chosen to establish open source offices to facilitate working with open source communities. In this session, learn lessons from Twitter on how to start your own open source office.
 
-        > Conor – if IPC decided to Opensource some code, this is helpful at looking at issues you might encounter from choice of license, to dealing success, forking etc
+        > Conor – if your company decided to Opensource some code, this is helpful at looking at issues you might encounter from choice of license, to dealing success, forking etc
 
     *   00:32:17 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -500,7 +502,7 @@ review of 342 OSCON 2015 videos
 
         The Open Source Initiative has changed from a licensing-focussed organisation to a force uniting open source projects, developers, and advocates worldwide. Hear how it happened, what's happening next, and why this is important to your career and business.
 
-        > conor - OSI can assist with non-code inititives related to open-source e.g diversity, access etc [OSI](https://opensource.org/)
+        > Conor - OSI can assist with non-code inititives related to open-source e.g diversity, access etc [OSI](https://opensource.org/)
 
     *   00:44:41 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -618,7 +620,7 @@ review of 342 OSCON 2015 videos
 
     You love using open source software. It's done right by you and now you want to contribute back. You get your patch all ready and... the boss says No! Don't feel alone. Enterprises everywhere are trying to figure this out. I'll walk you through the risks to business that actually exist and how you can help manage them. Maybe armed with this information your boss will say... Yes!
 
-    > conor - how to avoid getting fired or getting sued when contributing to OS . interesting sude note about black duck software for scanning your code for oss licence violation [blackduck](https://www.blackducksoftware.com/compliance/code-scanning) talks about ways to mitigate risks to business for those considering contributing to OSS . help with licence source selection , contributor licence agreements . also discusses many non-IP contributions which elevate a company's standing without any legal ramifications [slides](http://www.slideshare.net/patrickmcfadin/help-i-want-to-contribute-to-open-source-but-my-boss-says-no)
+    > Conor - how to avoid getting fired or getting sued when contributing to OS . interesting sude note about black duck software for scanning your code for oss licence violation [blackduck](https://www.blackducksoftware.com/compliance/code-scanning) talks about ways to mitigate risks to business for those considering contributing to OSS . help with licence source selection , contributor licence agreements . also discusses many non-IP contributions which elevate a company's standing without any legal ramifications [slides](http://www.slideshare.net/patrickmcfadin/help-i-want-to-contribute-to-open-source-but-my-boss-says-no)
 
 *   00:45:42 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -662,11 +664,11 @@ review of 342 OSCON 2015 videos
 
         Most modern web APIs prefer JSON because of its interoperability. All modern languages have excellent JSON support, but large-scale environments often require more than simple serialization/de-serialization. This tutorial shows how to leverage JSON Schema, Search, and Transform along with simple tooling to enhance a developers workflow to build elegant, powerful, and efficient applications.
 
-        > conor - This three part lab is an excellent introduction to JSON based schemas. This first part is an introduction to JSON schema. This is similar to the XML Schema Documents (XSD) used to validate the semantics of XML docs. This is a necessary step if you want to use JSON not just at the front end but as a internal messaging format in the enterprise back-end . despite being 10 years old the tools for JSON-schemas feel somewhat less polished than their XML counterparts but are still quite functional. [SLIDES](https://github.com/tmarrs/presentations/tree/master/OSCON/2015/JSON-at-Work-Schema-Search-and-Transform/slides) [see specification at json-schema.org](http://json-schema.org/) , [there's example code on github if you want to follow along (clone or download zip)](https://github.com/tmarrs/presentations)  
+        > Conor - This three part lab is an excellent introduction to JSON based schemas. This first part is an introduction to JSON schema. This is similar to the XML Schema Documents (XSD) used to validate the semantics of XML docs. This is a necessary step if you want to use JSON not just at the front end but as a internal messaging format in the enterprise back-end . despite being 10 years old the tools for JSON-schemas feel somewhat less polished than their XML counterparts but are still quite functional. [SLIDES](https://github.com/tmarrs/presentations/tree/master/OSCON/2015/JSON-at-Work-Schema-Search-and-Transform/slides) [see specification at json-schema.org](http://json-schema.org/) , [there's example code on github if you want to follow along (clone or download zip)](https://github.com/tmarrs/presentations)  
         > buid sample using tool or your IDE  
         > [json-pad](https://code.google.com/p/json-pad/)  
         > validate sample :  
-        > [web validator http://jsonvalidate.com/](http://jsonvalidate.com/)  
+        > [web validator - jsonvalidate](http://jsonvalidate.com/)  
         > [cli validatorujs-jsonvalidate](https://www.npmjs.com/package/ujs-jsonvalidate)  
         > [web validator jslint](http://jsonlint.com/)  
         > [cli validator jsonlint](https://github.com/zaach/jsonlint)  
@@ -680,7 +682,7 @@ review of 342 OSCON 2015 videos
 
         Most modern web APIs prefer JSON because of its interoperability. All modern languages have excellent JSON support, but large-scale environments often require more than simple serialization/de-serialization. This tutorial shows how to leverage JSON Schema, Search, and Transform along with simple tooling to enhance a developers workflow to build elegant, powerful, and efficient applications.
 
-        > conor - covers more fine-grained validation using regular-expressions, property-patterns shows how the tools needed to go from a json to  
+        > Conor - covers more fine-grained validation using regular-expressions, property-patterns shows how the tools needed to go from a json to  
         > project 2 add regular expression based validation  
         > [regex101.com](https://regex101.com/)  
         > project 3 to handle multiple records  
@@ -698,13 +700,15 @@ review of 342 OSCON 2015 videos
 
         Most modern web APIs prefer JSON because of its interoperability. All modern languages have excellent JSON support, but large-scale environments often require more than simple serialization/de-serialization. This tutorial shows how to leverage JSON Schema, Search, and Transform along with simple tooling to enhance a developers workflow to build elegant, powerful, and efficient applications.
 
-        > conor - reviews a number of tools for schema-searching e.g xpath-like ways of searching and filtering the json content. JSONpath and JSONpointer seems to be the top tools here. Also looks at transform tools ( similar to xslt in the xml world) to convert from JSON to HTML, XML and other forms of JSON. Support here is a little more scrappy. I thought the jq tool that works with curl was a handy one for bash scripts. ALso includes two projects you can use to test out searchs and transforms.
+        > Conor - reviews a number of tools for schema-searching e.g xpath-like ways of searching and filtering the json content. JSONpath and JSONpointer seems to be the top tools here. Also looks at transform tools ( similar to xslt in the xml world) to convert from JSON to HTML, XML and other forms of JSON. Support here is a little more scrappy. I thought the jq tool that works with curl was a handy one for bash scripts. ALso includes two projects you can use to test out searchs and transforms.
 
     *   00:55:04 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
     *   ### An introduction to d3.js: From scattered to scatterplot - Scott Murray (University of San Francisco) - Part 1
 
         Get started with d3.js, the most powerful JavaScript tool for creating data visualizations on the web. We'll start from scratch, and build an interactive scatterplot by the end of the session.
+
+        > Conor - basically an opensource implementtion of google charts . uses javascript on the front-end to create visualizations , uses Javascript, CSS, SVG etc to build a comparison is here [comparison](https://blog.socialcops.com/engineering/d3-js-versus-google-charts) slides , [slides](http://scatteredtoscatterplot.strataconf.com/book.html#slide-3) , [lab](https://github.com/alignedleft/scattered-scatterplot) , [cheatsheet](https://github.com/alignedleft/scattered-scatterplot/blob/master/D3%20Cheat%20Sheet.pdf)
 
     *   00:30:10 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -744,7 +748,7 @@ review of 342 OSCON 2015 videos
 
         Everyone at OSCON knows that good data coupled with modern open source technology can revolutionize business. But does senior management know? This presentation is about how to convince very powerful people with limited tech literacy that investing in good data and good data technology helps promote the organizations mission.
 
-        > conor - a little slow I'drecommend flipping through the slides directly rather than watching the video, main takes always lead with end-result - use analogies http://cdn.oreillystatic.com/en/assets/1/event/129/Talking%20to%20non-technical%20people%20about%20data%20_especially%20if%20they%E2%80%99re%20your%20boss_%20Presentation.pptx http://slideplayer.com/slide/7564758/
+        > Conor - a little slow I'd recommend flipping through the slides directly rather than watching the video, the main take is always lead with end-result - use analogies [slides download](http://cdn.oreillystatic.com/en/assets/1/event/129/Talking%20to%20non-technical%20people%20about%20data%20_especially%20if%20they%E2%80%99re%20your%20boss_%20Presentation.pptx) [slides online](http://slideplayer.com/slide/7564758/)
 
     *   00:40:13 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -752,11 +756,15 @@ review of 342 OSCON 2015 videos
 
         Fast and scalable analysis of big data has become a critical competitive advantage for companies. There are open source tools like Apache Hadoop and Apache Spark that are providing opportunities for companies to solve these big data problems in a scalable way. Platforms like these have become the foundation of the big data analysis movement.
 
+        > Conor - analytics are expensive when using graph databases at scale. so mazerunner can be used to export a subsection of the graph via an ETL to apache spark to speed up analysis. [http://www.kennybastani.com/](http://www.kennybastani.com/)
+
     *   00:28:15 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
     *   ### Solr for data science - Grant Ingersoll (Lucidworks)
 
         Search engine technology is rapidly evolving from keyword-based lookups, to a highly sophisticated ranking engine capable of incorporating many different features across complex data types. With the latest changes in Solr and Lucene, it is now possible to ask more interesting questions of multi-structured content than ever before, making them indispensable tools in the data science toolbox.
+
+        > Conor intro how to get started with solr e.g loading data into solr and then exploring the data via solr, logstache(open source splunk) and kibana , [slides](http://www.slideshare.net/gsingers/solr-for-data-science) , [code lab](https://github.com/LucidWorks/solr-for-datascience)
 
     *   00:44:46 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -938,6 +946,8 @@ review of 342 OSCON 2015 videos
 
         Board games are hard at the best of times “ you have to find friends who have the free time to play, find a game everyone is happy to play, and more! When friends move elsewhere, things get even harder! This sessions explores the challenges of telepresence board gaming. Learn why and how you should care, how the problems are being addressed, and how its relevant to remote collaboration.
 
+        > Conor - The issues with trying to make board games over the internet as much fun as in person
+
     *   00:32:56 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
     *   ### Modern accessibility for modern web apps - Patrick Fox (Razorfish)
@@ -964,7 +974,7 @@ review of 342 OSCON 2015 videos
 
         At Puppet Labs, weve adopted and developed techniques for getting our ideas in front of our community in a manner that leads to reliable feedback. Join us to learn about what weve found to be effective, and how that has affected the way we plan, design, and build.
 
-        > conor - suggestions and tools for organizing user research groups for survey use surveygizo (branching logic) , for prototype Design use www.axure.com , for scheduling use usepowwow.com , for internation scheuling use worldtimebuddy.com ,
+        > Conor - suggestions and tools for organizing user research groups for survey use surveygizo (branching logic) , for prototype Design use www.axure.com , for scheduling use usepowwow.com , for internation scheuling use worldtimebuddy.com ,
 
     *   00:40:46 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -972,7 +982,7 @@ review of 342 OSCON 2015 videos
 
         Technology shouldn't require all of our attention, just some of it, and only when necessary. This talk will cover how to use principles of calm technology to design the next generation of connected devices. We'll look at notification styles, compressing information into other senses, and designing for the least amount of cognitive overhead.
 
-        > conor - techniques to provide information without us becoming slaves to our devices http://www.calmtech.com/ [http://www.calmtech.com/](http://www.calmtech.com/)
+        > Conor - techniques to provide information without us becoming slaves to our devices http://www.calmtech.com/ [http://www.calmtech.com/](http://www.calmtech.com/)
 
     *   00:46:20 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -986,7 +996,7 @@ review of 342 OSCON 2015 videos
 
         Youve got mad computer hacking skills, and an app idea to take over the world! But there's one problem: youre not a designer and need your app to look stunning. This talk will show you how to quickly build a beautiful, modern user interface without having to hire a designer.
 
-        > Conor - demos lots of tools to help build mostly JS based web frameworks. slides https://speakerdeck.com/calebm/building-a-modern-ui how to get big results quickly using bootstrap http://getbootstrap.com/ bootstrap themes https://wrapbootstrap.com/ use polymer for pre-built web components https://www.polymer-project.org/1.0/ bower for dependency management for web dependencies http://bower.io/ grunt and gulp for js minification, linting, unit test http://gruntjs.com/ http://gulpjs.com/ yeoman for skeleton projects with (similar to maven artifactory) http://yeoman.io/
+        > Conor - demos lots of tools to help build mostly JS based web frameworks. , [slides](https://speakerdeck.com/calebm/building-a-modern-ui) how to get big results quickly using [bootstrap](http://getbootstrap.com/) ,[bootstrap themes](https://wrapbootstrap.com/) Use [polymer](https://www.polymer-project.org/1.0/) for pre-built web components. Use [bower](http://bower.io/) for dependency management for web dependencies use [Grunt](http://gruntjs.com/) and [Gulp](http://gulpjs.com/) for js minification, linting, unit test Use [yeoman](http://yeoman.io/) for skeleton projects with (similar to maven artifactory)
 
     *   00:25:45 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1194,6 +1204,8 @@ review of 342 OSCON 2015 videos
 
     We'll take a deep dive down the stack, into how the internet works to magically make Google's home page appear in our web browser. Topics will range from URL parsing and DNS resolution, through HTTP, TCP, IP, and routing, and all the way back up to browser rendering.
 
+    > Conor - I hate when people read from a script . these presentations always suck. everyone knows what happens when yoou press enter. magic ! the most boring presentation I've see so far. have a suicide hotline phone number on standby. See you Jimmy!
+
 *   00:36:20 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 *   ### How to think in Go: Stories from a Perl developer turned Go developer - Daisuke Maki (HDE Inc)
@@ -1253,6 +1265,8 @@ review of 342 OSCON 2015 videos
 *   ### How to write a specification: Implementing a library in seven programming languages - James Saryerwinnie (AWS)
 
     In this talk, I'll show you how to write a straightforward specification that is easy to implement in any programming language. I'll do this by sharing the story of JMESPath, a query language for JSON that currently has implementations in seven languages, and the lessons learned in creating the JMESPath specification. You'll leave ready to write easy-to-implement specifications.
+
+    > Conor – suggests including examples in your spec, suggest also add tests in a language netral format like ABNF [http://jamesls.com/](http://jamesls.com/)
 
 *   00:27:53 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1370,6 +1384,8 @@ review of 342 OSCON 2015 videos
 
         The Internet of Things is built on open source software, and yet the devices are far from open. This isnt the future that free and open source contributors have been working toward. It's a disappointment for the Open Source Community, but we can lead the way to freedom, transparency, and collaboration in IoT. And we must”to avert impending frustration for increasingly savvy consumers.
 
+        > Conor - iot devices are mostly closed, which means the device can become useless if the manufacturere stops supporting it. kinomajs provides an easy way to open up IOT apps using extensible scripting via javascript [kinomajs](https://github.com/Kinoma/kinomajs) ,
+
     *   00:44:48 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
     *   ### Raspberry Pi hacks - Ruth Suehle (Red Hat) and Tom "spot" Callaway (Red Hat)
@@ -1385,6 +1401,8 @@ review of 342 OSCON 2015 videos
     *   ### Docker 101: Introduction to Docker - Andrew Baker (Twilio) - Part 1
 
         Docker was one of last years most talked about open source projects - but what is it? And what does it mean for deploying applications? This tutorial will explain what Docker is and where it fits in with other deployment and configuration management techniques. Students will then learn the basics of working with Docker containers, how to dockerize an app, and some emerging best practices.
+
+        > Conor – A slide centric high level 30,000 foot overview of docker has a link to 4 part tutorial with info on how to setup locally or in the cloud [slides](http://docker.atbaker.me/)
 
     *   00:34:41 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1499,6 +1517,8 @@ review of 342 OSCON 2015 videos
     *   ### Container orchestration at scale - Steve Francia (Docker Inc.) - Part 2
 
         This is not a typo: we are going to demonstrate and compare different orchestration systems, for scales both big and small. Within the span of this tutorial, we will build clusters together using open source software like Swarm, Mesos, and others.
+
+        > Conor – The second video covers how to scale out multiple workers on a single host, how to add a load-balancer . It the covers using docker-compose to scake out across multiple hosts and link to shared external services like redis
 
     *   00:45:26 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1657,6 +1677,8 @@ review of 342 OSCON 2015 videos
     *   ### Mesos: The operating system for your datacenter - David Greenberg (Two Sigma)
 
         In this talk, we'll learn all about Mesos - what it is, how you can leverage it to simplify your infrastructure and reduce AWS/cloud computing costs, and why you should develop your next application on top of it. This talk will give you the tools you need to understand whether Mesos is the right fit for your infrastructure, and several starting points for learning more about Mesos.
+
+        > Conor - good overview of mesos , using an operating system anaolgy nice overview of associated tech like marathon, Aurora, spark, DCOS for amazon and playa-mesos for devTesting covers mesos masters , schedulers etc. [slides](http://www.slideshare.net/DavidGreenberg7/mesos-the-operating-system-for-your-datacenter)
 
     *   00:40:23 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1936,17 +1958,23 @@ review of 342 OSCON 2015 videos
 
         Nowadays, theres a wide variety of devices, platforms, and screen sizes on which web apps can be run. What if your web app was responsive, adaptive, and able to run on all devices without you having to take care of all the details? We will demonstrate how to build well-designed web apps based on the example of an app we created for one of the most loved sports in Germany: soccer.
 
+        > Conor – first half is common sense mobile development tips , covers challenges to multi-device webapp dev design guidelines are here [https://experience.sap.com/fiori-design/](https://experience.sap.com/fiori-design/) second half alks about their css/js toolset ( a jquery superset ) for assisting with responsive web pages. [http://openui5.org/](http://openui5.org/)
+
     *   00:36:28 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
     *   ### The cursed oracle: Cassandra's past, present and future - Rachel Pedreschi (DataStax)
 
         With 1000's of Cassandra users worldwide, we claim victory on how to keep a distributed database always available. Now it is time to tackle all the smaller problems that help a database go from great to spectacular. Developer productivity, ease of use, and a rich ecosystem are firmly in our target. Let's talk about what has been added and what's coming and why.
 
+        > Conor – background , some issues with cassandra and new features that might help e.g CQL v3, materialized views and light weight transactions
+
     *   00:34:48 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
     *   ### Cache money: Tips for going fast in a slow world - Michael May (Fastly)
 
         When it comes to caching, we fall into two categories - those who make phat stacks of cache money and those who suffer from cache anxiety. In this talk, well cover HTTP caching, old and new strategies for caching historically ˜uncacheable content, and secret features of HTTP accelerators like Varnish.
+
+        > Conor – most people think of caching being static but cache servers like varnish show their can be a lot of dynamic logic added to make cachin more powerful. explains the mysterious HTTP etag, and then new "grace"mode for cache-control header,caching for ajax/json calls , overview of edge-cache server config like varnish. [https://www.varnish-cache.org/](https://www.varnish-cache.org/)
 
     *   00:32:00 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1990,7 +2018,7 @@ review of 342 OSCON 2015 videos
 
         Every company is a software company, but crafting good software is hard. This presentation will explore approaches needed to craft good software, look at why these modern architectures patterns are an important part of that story, and how DevOps and monitoring fits into this puzzle.
 
-        > conor - first half is a general discussion of microservices, containers polyglot databases monolithic architecture migration second half is devops related with emphasis on monitoring at different levels, systems, apps, users and business [oscon overview](https://blog.newrelic.com/2015/07/24/9-big-picture-takeaways-from-oscon-as-open-source-goes-mainstream/)
+        > Conor - first half is a general discussion of microservices, containers polyglot databases monolithic architecture migration second half is devops related with emphasis on monitoring at different levels, systems, apps, users and business [oscon overview](https://blog.newrelic.com/2015/07/24/9-big-picture-takeaways-from-oscon-as-open-source-goes-mainstream/)
 
     *   00:37:19 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -2176,17 +2204,23 @@ review of 342 OSCON 2015 videos
 
         This session will expose you to a broad range of web security vulnerabilities and their solutions. We'll cover the basics such as XSS, CSRF, SQL Injection, and clickjacking. We will also go into depth on issues of session management, password security, two-factor authentication, and much much more!
 
+        > Conor – an gentle introduction to some security commmon-sense practices, such as strong password hashing with per user salts. the examples are in php but the issues are universal for any language , [slides (PDF)](http://eliw.com/wp-content/uploads/2015/07/tutorial.web_.security.pdf)
+
     *   00:47:07 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
     *   ### Web security essentials - Eli White (php[architect]) - Part 2
 
         This session will expose you to a broad range of web security vulnerabilities and their solutions. We'll cover the basics such as XSS, CSRF, SQL Injection, and clickjacking. We will also go into depth on issues of session management, password security, two-factor authentication, and much much more!
 
+        > Conor – secondary measures like 2-factor auth, FIEO filter-input and escape-output, santise vs validate, fairous forms of injection such as sql,command(mostly a php issue) and file injection. , [slides (PDF)](http://eliw.com/wp-content/uploads/2015/07/tutorial.web_.security.pdf)
+
     *   00:40:21 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
     *   ### Web security essentials - Eli White (php[architect]) - Part 3
 
         This session will expose you to a broad range of web security vulnerabilities and their solutions. We'll cover the basics such as XSS, CSRF, SQL Injection, and clickjacking. We will also go into depth on issues of session management, password security, two-factor authentication, and much much more!
+
+        > Conor – covers Stored XSS, Cross Site Request forgery CSRF ,click-jacking and some approaches to avoid exposure. , [slides (PDF)](http://eliw.com/wp-content/uploads/2015/07/tutorial.web_.security.pdf)
 
     *   00:44:08 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -2212,6 +2246,8 @@ review of 342 OSCON 2015 videos
 
         What can be learned about a person's internet habits if every packet in and out was logged by a transparent man-in-the-middle? Here's what I discovered from a few months of self-experimentation.
 
+        > Conor – shows how to create a 30 line router using Go that mimics tcpdump [slides](https://docs.google.com/presentation/d/19BRaUsH1y36YcFoNoM9N4BCwppW1KTtkMJy7wmFDmAY/edit#slide=id.p)
+
     *   00:40:25 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
     *   ### I've been hacked, now what? - Beth Tucker Long (Treeline Design)
@@ -2231,6 +2267,8 @@ review of 342 OSCON 2015 videos
     *   ### Vulnerability management for open software development - Jeremy Stanley (OpenStack Foundation)
 
         The vulnerability management team for the OpenStack project handles hundreds of incoming reports of potential security vulnerabilities, and publishes dozens of advisories every year. Find out how we reconcile vulnerability reporting with our public design and open community development ideals, and learn about the free tooling and published processes we employ to make it easier.
+
+        > Conor - some best practices for security vulnerability reporting and processing with opensource code
 
     *   00:39:50 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -2261,6 +2299,8 @@ review of 342 OSCON 2015 videos
     *   ### Creating a community around cybersecurity best practices - Alan Robertson (Assimilation Systems Limited)
 
         The cybersecurity community has difficulty working together around breaches, out of legal and public relations concerns, but can share best practices. The open source Assimilation Project compares system configurations against best practices in near-real-time. This talk outlines our efforts to include more security experts in our community, and translate the results into open source code.
+
+        > Conor – first half discusses the Assimilation product which seems to be an agent based product for network discovery and compliance . second half discusses how to submit to a community based security best practices site [video](https://www.youtube.com/watch?v=SsiKLqxz3Yo) , [assimilation project](http://linux-ha.org/source-doc/assimilation/html/index.html) ,
 
     *   00:42:19 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -2312,6 +2352,8 @@ review of 342 OSCON 2015 videos
 
         Learn about how floating-point arithmetic approximates real arithmetic, and lessons for more effective (and less surprising) numerical programming.
 
+        > Conor - natural language processing and it's applications to question answering. [slides from same firm](http://www.slideshare.net/lucidworks/presentations) , [taming text book](https://www.manning.com/books/taming-text) , [code for book](https://github.com/tamingtext) , [open nlp](https://opennlp.apache.org/) , [wordnet](https://wordnet.princeton.edu/) ,
+
     *   00:42:38 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
     *   ### You've got questions, we've got answers! - Grant Ingersoll (Lucidworks)
@@ -2343,6 +2385,8 @@ review of 342 OSCON 2015 videos
     *   ### Network analysis: People and open source communities - Dawn Foster (University of Greenwich)
 
         The real magic in any community comes from the people. I will show you tools and techniques for performing network analysis, to look at the people in your community along with the relationships between them. Why settle for boring numbers and line charts to describe your community when you can do cool visualizations that show how people connect within your open source community?
+
+        > Conor – social network analysis , metric extraction and graph visualization tools [metrics grimoire](http://metricsgrimoire.github.io/) ,[mailing list analysis tool](http://metricsgrimoire.github.io/MailingListStats/) ,[Gource -video of time based metrics e.g subversion checkins in the last year](http://gource.io/) ,[R Studio -graph visualization tool](https://www.rstudio.com/) ,[visone -graph visualization tool](http://visone.info/html/demo.html)
 
     *   00:42:01 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -2385,5 +2429,4 @@ review of 342 OSCON 2015 videos
         > Conor – Mostly Fun with a callout to Microservices and containers
 
     *   00:37:36 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
-
-<script>$(document).ready(function() { $(tocList).empty(); var prevH2Item = null; var prevH2List = null; var index = 0; $("h2, h3").each(function() { //insert an anchor to jump to, from the TOC link. var anchor = "<a name='" + index + "'></a>"; $(this).before(anchor); var li = "<li><a href='#" + index + "'>" + $(this).text() + "</a></li>"; if( $(this).is("h2") ){ prevH2List = $("<ul></ul>"); prevH2Item = $(li); prevH2Item.append(prevH2List); prevH2Item.appendTo("#tocList"); } else { prevH2List.append(li); } index++; }); });</script>
+ 
