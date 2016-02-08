@@ -1,8 +1,8 @@
-# reviewed 154 of 340 OSCON 2015 videos
+# OSCON 2015
 
 <div id="tocDiv" dir="ltr">
 
-<a name="tocList" id="tocList"></a>  
+<a name="tocList" id="tocList"></a>
 
 </div>
 
@@ -664,16 +664,16 @@
 
         Most modern web APIs prefer JSON because of its interoperability. All modern languages have excellent JSON support, but large-scale environments often require more than simple serialization/de-serialization. This tutorial shows how to leverage JSON Schema, Search, and Transform along with simple tooling to enhance a developers workflow to build elegant, powerful, and efficient applications.
 
-        > Conor - This three part lab is an excellent introduction to JSON based schemas. This first part is an introduction to JSON schema. This is similar to the XML Schema Documents (XSD) used to validate the semantics of XML docs. This is a necessary step if you want to use JSON not just at the front end but as a internal messaging format in the enterprise back-end . despite being 10 years old the tools for JSON-schemas feel somewhat less polished than their XML counterparts but are still quite functional. [SLIDES](https://github.com/tmarrs/presentations/tree/master/OSCON/2015/JSON-at-Work-Schema-Search-and-Transform/slides) [see specification at json-schema.org](http://json-schema.org/) , [there's example code on github if you want to follow along (clone or download zip)](https://github.com/tmarrs/presentations)  
-        > buid sample using tool or your IDE  
-        > [json-pad](https://code.google.com/p/json-pad/)  
-        > validate sample :  
-        > [web validator - jsonvalidate](http://jsonvalidate.com/)  
-        > [cli validatorujs-jsonvalidate](https://www.npmjs.com/package/ujs-jsonvalidate)  
-        > [web validator jslint](http://jsonlint.com/)  
-        > [cli validator jsonlint](https://github.com/zaach/jsonlint)  
-        >   
-        > generate schema from sample :  
+        > Conor - This three part lab is an excellent introduction to JSON based schemas. This first part is an introduction to JSON schema. This is similar to the XML Schema Documents (XSD) used to validate the semantics of XML docs. This is a necessary step if you want to use JSON not just at the front end but as a internal messaging format in the enterprise back-end . despite being 10 years old the tools for JSON-schemas feel somewhat less polished than their XML counterparts but are still quite functional. [SLIDES](https://github.com/tmarrs/presentations/tree/master/OSCON/2015/JSON-at-Work-Schema-Search-and-Transform/slides) [see specification at json-schema.org](http://json-schema.org/) , [there's example code on github if you want to follow along (clone or download zip)](https://github.com/tmarrs/presentations)
+        > buid sample using tool or your IDE
+        > [json-pad](https://code.google.com/p/json-pad/)
+        > validate sample :
+        > [web validator - jsonvalidate](http://jsonvalidate.com/)
+        > [cli validatorujs-jsonvalidate](https://www.npmjs.com/package/ujs-jsonvalidate)
+        > [web validator jslint](http://jsonlint.com/)
+        > [cli validator jsonlint](https://github.com/zaach/jsonlint)
+        > 
+        > generate schema from sample :
         > [http://jsonschema.net/](http://jsonschema.net/)
 
     *   00:58:55 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
@@ -682,16 +682,16 @@
 
         Most modern web APIs prefer JSON because of its interoperability. All modern languages have excellent JSON support, but large-scale environments often require more than simple serialization/de-serialization. This tutorial shows how to leverage JSON Schema, Search, and Transform along with simple tooling to enhance a developers workflow to build elegant, powerful, and efficient applications.
 
-        > Conor - covers more fine-grained validation using regular-expressions, property-patterns shows how the tools needed to go from a json to  
-        > project 2 add regular expression based validation  
-        > [regex101.com](https://regex101.com/)  
-        > project 3 to handle multiple records  
-        > REST stub server generation tools  
-        > [www.json-generator.com](http://www.json-generator.com/) ,  
-        > [json-server](https://github.com/typicode/json-server)  
-        >   
-        > document generation tools for your schema :  
-        > [matic](https://github.com/mattyod/matic) ,  
+        > Conor - covers more fine-grained validation using regular-expressions, property-patterns shows how the tools needed to go from a json to
+        > project 2 add regular expression based validation
+        > [regex101.com](https://regex101.com/)
+        > project 3 to handle multiple records
+        > REST stub server generation tools
+        > [www.json-generator.com](http://www.json-generator.com/) ,
+        > [json-server](https://github.com/typicode/json-server)
+        > 
+        > document generation tools for your schema :
+        > [matic](https://github.com/mattyod/matic) ,
         > [docson](https://github.com/lbovet/docson)
 
     *   00:59:27 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
