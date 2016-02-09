@@ -2248,6 +2248,15 @@ This is a live demonstration of hacking into the processor embedded in an SD car
 
 We are now in an age where more people have phones than toilets, and there are more active cell phones than people on the planet. How do we protect all of these devices as theyre roaming around unsecured locations, especially when we want to pay for something.
 
+> Conor - variable data security for mobile payments -  to only add more security challenges when needed
+> *  there's a cost to security e.g every page infront of checkout  reduces users by 30%
+> * store peronsally identifialble data in hardened  encrypted/salted format
+> * avoid sha or md5  use keystretching techniques  like slting , multiple passes, like b-crypt , s-crypt since 90% of users password fall into the top 1000 passwords list
+> * user iregularities e.g location awareness , habit awareness , browser uniqness , device fingerprinting
+[browser uniqness ](https://panopticlick.eff.org/) 
+> * variable authentication -add  more manual authentication when users fail some of the tests above.
+> *  irregular usage spikes ,  track their normal buyinh habits 
+
   * 00:30:45 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### High adventures in sniffing my own metadata - Josh Deprez (Google Australia)
