@@ -716,14 +716,15 @@ Most modern web APIs prefer JSON because of its interoperability. All modern lan
 
 Get started with d3.js, the most powerful JavaScript tool for creating data visualizations on the web. We'll start from scratch, and build an interactive scatterplot by the end of the session.
 
-> Conor - basically an opensource implementtion of google charts . uses javascript on the front-end to create visualizations , uses Javascript, CSS, SVG etc to build a comparison is here [comparison](https://blog.socialcops.com/engineering/d3-js-versus-google-charts) slides , [slides](http://scatteredtoscatterplot.strataconf.com/book.html#slide-3) , [lab](https://github.com/alignedleft/scattered-scatterplot) , [cheatsheet](https://github.com/alignedleft/scattered-scatterplot/blob/master/D3%20Cheat%20Sheet.pdf)
+> Conor - basically an opensource implementation of google charts . uses javascript on the front-end to create visualizations , uses Javascript, CSS, SVG etc to build a comparison is here [comparison](https://blog.socialcops.com/engineering/d3-js-versus-google-charts) slides , [slides](http://scatteredtoscatterplot.strataconf.com/book.html#slide-3) , [lab](https://github.com/alignedleft/scattered-scatterplot) , [cheatsheet](https://github.com/alignedleft/scattered-scatterplot/blob/master/D3%20Cheat%20Sheet.pdf)
 
   * 00:30:10 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### An introduction to d3.js: From scattered to scatterplot - Scott Murray (University of San Francisco) - Part 2
 
 Get started with d3.js, the most powerful JavaScript tool for creating data visualizations on the web. We'll start from scratch, and build an interactive scatterplot by the end of the session.
-
+> Conor - first half is using d3 to create and dynamically modify svg resources
+> * second half using data binding , so that incremental updates are super efficient
   * 00:49:43 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### An introduction to d3.js: From scattered to scatterplot - Scott Murray (University of San Francisco) - Part 3
@@ -2228,13 +2229,13 @@ This session will expose you to a broad range of web security vulnerabilities an
 
 This session will expose you to a broad range of web security vulnerabilities and their solutions. We'll cover the basics such as XSS, CSRF, SQL Injection, and clickjacking. We will also go into depth on issues of session management, password security, two-factor authentication, and much much more!
 
-> Conor – covers Stored XSS, Cross Site Request forgery CSRF ,click-jacking and some approaches to avoid exposure. , [slides (PDF)](http://eliw.com/wp-content/uploads/2015/07/tutorial.web_.security.pdf)
-
+> Conor – covers session hijacking ,    reflected  XSS,
   * 00:44:08 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Web security essentials - Eli White (php[architect]) - Part 4
 
 This session will expose you to a broad range of web security vulnerabilities and their solutions. We'll cover the basics such as XSS, CSRF, SQL Injection, and clickjacking. We will also go into depth on issues of session management, password security, two-factor authentication, and much much more!
+> Conor – covers Stored XSS, Cross Site Request forgery CSRF ,click-jacking and some approaches to avoid exposure. , [slides (PDF)](http://eliw.com/wp-content/uploads/2015/07/tutorial.web_.security.pdf)
 
   * 00:44:00 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
