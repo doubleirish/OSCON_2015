@@ -2415,7 +2415,7 @@ This talk addresses improving the ability of hierarchal temporal memory (HTM) to
 
 What if you had software that tracked location history so well it could remember all the walks you take, all your commutes, and even the quests you take in your favorite video games? With this level of detail captured and a bit of algorithmic brilliance, NuPIC allows for instant anomaly detection, and in the process, opens up a whole new world of intelligent applications for pattern recognition.
 
-> Conor – software that detect deviations from a pattern. for example this could ,in theory b,e applied to compare SNI volume graphs for walmart and report an anomaly if volume was significantly different . Since the AI retrains itself with the most recent data, it doesn't have to have its min/max settings changed manually. [numenta.org -NuPIC machine analysis](http://numenta.org/) [github](https://github.com/numenta/nupic)
+> Conor – software that detect deviations from a pattern.  Since the AI retrains itself with the most recent data, it doesn't have to have its min/max settings changed manually. [numenta.org -NuPIC machine analysis](http://numenta.org/) [github](https://github.com/numenta/nupic)
 
   * 00:41:39 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
