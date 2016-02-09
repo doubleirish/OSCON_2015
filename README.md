@@ -23,7 +23,11 @@ Openness is good for Government on many levels ” open data, open standards, op
 
 Dr. Angel Diaz, IBM VP Cloud Architecture & Technology, provides a retrospective on the evolution of open source from the old ways in the early years to todays new model of code, community and culture which brings together users and developers to accelerate innovation.
 
-> Conor – ibm hawks it's opensource credentials and cloud solution , [slides dropbox](https://www.dropbox.com/s/iltw36budmc5uh4/Diaz-OSCON.20150720c-selected.ppt?dl=0) , [youtube video](http://www.youtube.com/embed/fmnA6AHb34I?autoplay=1) , [ibm devops](http://www.ibm.com/ibm/devops/us/en/) , [ibm bluemix](http://www.ibm.com/cloud-computing/bluemix/)
+> Conor – ibm hawks it's opensource credentials and cloud solution , 
+> [slides dropbox](https://www.dropbox.com/s/iltw36budmc5uh4/Diaz-OSCON.20150720c-selected.ppt?dl=0) , 
+> [youtube video](http://www.youtube.com/embed/fmnA6AHb34I?autoplay=1) , 
+> [ibm devops](http://www.ibm.com/ibm/devops/us/en/) ,
+> [ibm bluemix](http://www.ibm.com/cloud-computing/bluemix/)
 
 *   00:13:54 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -31,7 +35,8 @@ Dr. Angel Diaz, IBM VP Cloud Architecture & Technology, provides a retrospective
 
 Ship a lot, or ship fast? These goals may seem to be at odds, but it's actually possible to have large, diverse portfolios of open source projects and maintain a fast-moving, iterative approach. In this talk, Facebook's open source lead James Pearce will discuss how Facebook is able to ship open source products twice a week and maintain quality, size, and speed.
 
-> Conor – gov.uk has a github account and expends effort on ensuring open document standards [facebook projects](https://code.facebook.com/projects/)
+> Conor – gov.uk has a github account and expends effort on ensuring open document standards 
+[facebook projects](https://code.facebook.com/projects/)
 
 *   00:13:42 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
