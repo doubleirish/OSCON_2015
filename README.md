@@ -730,6 +730,11 @@ Get started with d3.js, the most powerful JavaScript tool for creating data visu
 ### An introduction to d3.js: From scattered to scatterplot - Scott Murray (University of San Francisco) - Part 3
 
 Get started with d3.js, the most powerful JavaScript tool for creating data visualizations on the web. We'll start from scratch, and build an interactive scatterplot by the end of the session.
+> Conor the third video shows how to implement transitions , changing color or shape or position
+.Also scaling so the visualization will fit on your screen
+[alligned-left d3 tutorials](http://alignedleft.com/tutorials/)
+
+[book](http://www.amazon.com/Interactive-Data-Visualization-Scott-Murray/dp/1449339735)
 
   * 00:45:42 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1541,6 +1546,9 @@ This is not a typo: we are going to demonstrate and compare different orchestrat
 ### Container orchestration at scale - Steve Francia (Docker Inc.) - Part 4
 
 This is not a typo: we are going to demonstrate and compare different orchestration systems, for scales both big and small. Within the span of this tutorial, we will build clusters together using open source software like Swarm, Mesos, and others.
+
+> Conor - covers how to upgrade docker in production , applying security upgeades toimages ns libraries  . Also how to run network trace tools like ngrep on a docker container which is sharing it's network stack amongst multiple containers .
+in the second half covers integration with Mesos, kubernetes and swarm 
 
   * 00:38:15 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
