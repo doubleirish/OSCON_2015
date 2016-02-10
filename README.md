@@ -1534,6 +1534,7 @@ This is not a typo: we are going to demonstrate and compare different orchestrat
 ### Container orchestration at scale - Steve Francia (Docker Inc.) - Part 3
 
 This is not a typo: we are going to demonstrate and compare different orchestration systems, for scales both big and small. Within the span of this tutorial, we will build clusters together using open source software like Swarm, Mesos, and others.
+> Conor – The third video covers how to use an ambassador in docker compose to help isolate containers from having to know the true location of services the depend on .  It also covers how to get information out of a container e.g backing up important files and some different approaches for extracting logging information from containers 
 
   * 00:46:21 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
