@@ -741,7 +741,8 @@ Get started with d3.js, the most powerful JavaScript tool for creating data visu
 ### An introduction to d3.js: From scattered to scatterplot - Scott Murray (University of San Francisco) - Part 4
 
 Get started with d3.js, the most powerful JavaScript tool for creating data visualizations on the web. We'll start from scratch, and build an interactive scatterplot by the end of the session.
-
+> Conor -  covers X and Y axis  creation and scaling techniques
+  
   * 00:41:01 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Create beautiful dashboards from many sources of data using open technologies - Jonas Rosland (EMC) and Kate Greenough (EMC)
@@ -757,6 +758,9 @@ There are tons of metrics that can be measured out there. Facebook likes, Twitte
 The historical versioning of maps defines some of the most fascinating social, political, and environmental flux of precedent. Everything from the eruption of post-World Cup tweets, to the migration patterns of mammals, can be mapped with OSS. This talk will cover time travel as it can be viewed in visualizations: the ways we partner time-series data with interactive maps @CartoDB.
 
 > Conor – a look at the types  of Geo Maps you can create with cartoDB.  cool overiew of the entire technology stack at minute 17.
+> [CartoDB.com](http://cartodb.com)
+> [github cartodb](http://github.com/CartoDB)
+> [Download](http://cartodb.github.io/torque)
 
   * 00:45:06 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
