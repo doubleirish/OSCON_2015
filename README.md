@@ -124,7 +124,7 @@ Keila Banks is a 13-year-old African-American girl in the inner city - her talk 
 
 From Portlandias capa chuchu chuchu tea to Texas where Everything is so BIG that they only have data, OSCON is moving. In this farewell talk to Portland, we will cover the history of navigation from stories to maps, the unexplored lands of open sources future and the territories open source has already conquered.
 
-*   <span style="background: #ffff00"></span>
+
 
 > Conor – recommended - mapping the future
 
@@ -800,6 +800,10 @@ Herein, an open source developer community considers itself _algorithmically_. T
 
 We are collecting increasing amounts of data to analyze, so we can understand how to better serve our customers. But how do you know that the data collected is useful or even being used? Using Netflixs experience building data platforms, we will talk about how gaining insight into the use of your data can improve your own platform.
 
+> Conor - when you have thousands of ETL JOBs running every day,
+at that scale it gets hard to determine which  jobs are actually being used.
+this video shows how  they were able to tackle this optimization problem
+
   * 00:40:13 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Scalable graph analysis with Apache Giraph and Spark GraphX - Roman Shaposhnik (Pivotal Inc.)
@@ -886,11 +890,18 @@ Prototypes allow us to see, touch, feel, and refine ideas and designs. Starting 
 
 This tool-agnostic tutorial is for those with the software chops and interest to create data visualizations, who want to elevate the look and feel of their work. Attendees will workshop an in-progress data visualization. They will learn design best practices and how to navigate the critique process, and then develop their own work on-site with guidance from two experts.
 
+> Conor - covering Position (similar results should be close together)and color, suggests sketching , avoid 3D anything see reality distortion at minute 19.1
+[How to survive  a critique] (http://www.aiga.org/how-to-survive-a-critique/)
+
+
+
   * 00:46:16 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Bland to beautiful: Data visualization workshop - Julie Steele (Silicon Valley Data Science) and Susie Lu (Silicon Valley Data Science) - Part 2
 
 This tool-agnostic tutorial is for those with the software chops and interest to create data visualizations, who want to elevate the look and feel of their work. Attendees will workshop an in-progress data visualization. They will learn design best practices and how to navigate the critique process, and then develop their own work on-site with guidance from two experts.
+> COnor - covering the dark art of labels and visual weight
+> lots of resouce links at end
 
   * 00:28:38 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -948,6 +959,10 @@ This talk will look at how taking a modular, object-oriented approach to CSS can
 
 1GHz ARM Cortex A8, 512MB RAM, 4GB NAND Flash, WiFi, Bluetooth - and it's completely open source. Also, it costs $9\. See how, why, and what it means for the future of open hardware.
 
+> Conor - cool story of how an inventor went from an animated gif box to a C.H.I.P
+> (get chip hw)[http://getchip.com/]
+> (chip sdk )[https://github.com/NextThingCo/CHIP-SDK]
+
   * 00:42:10 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Sass: What it is, how it's used, and why it's so syntactically awesome - Lucy Wyman (OSU Open Source Lab)
@@ -969,6 +984,7 @@ Board games are hard at the best of times “ you have to find friends who have 
 ### Modern accessibility for modern web apps - Patrick Fox (Razorfish)
 
 Building modern, accessible web apps can be daunting. This talk goes beyond the foundational aspects of accessibility to discuss higher-level concepts and challenges for making modern web UI accessible, demonstrating specific solutions and best practices for: -Common UI components(modals, form validation) -Single-page architecture -Summarizing complex content -Providing accessible help text
+> Conor - covers accessibility aka a11y , how to use aria attributes to hint to screen readers and a brief set of guidelines on usage.
 
   * 00:40:52 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
