@@ -810,6 +810,8 @@ this video shows how  they were able to tackle this optimization problem
 
 Graph relationships are everywhere. In fact, more often than not, analyzing relationships between points in your datasets lets you extract more business value from your data. This presentation will provide an introduction into two of the most used Hadoop ecosystem projects in the area of scalable graph processing: Apache Giraph and Spark GraphX.
 
+> Conor how to iterate and process graph data using both Giraph (Java Example) and GraphX (Scala example). Good introduction that compares the two approaches [Slides] (http://cdn.oreillystatic.com/en/assets/1/event/129/Scalable%20graph%20analysis%20with%20Apache%20Giraph%20and%20Spark%20GraphX%20Presentation.pdf)
+
   * 00:43:34 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Cassandra 3.0: improved productivity with JSON - Jonathan Ellis (DataStax, Inc)
@@ -822,7 +824,7 @@ This session will cover the new features in Cassandra 3.0, including JSON suppor
 
 Dataflow is an often underestimated challenge in realizing the value of big data. Messaging-based approaches are fast and well understood, and solid open source options exist. However, this talk makes the case that transport-oriented messaging is not the right abstraction for large distributed enterprise data flow, and describes how Apache NiFi is designed to solve these problems.
 
-> Conor - Apache NiFi is likes JMS queues on steroids , they provide some features that go beyond basic queuing. it talks about chain-of-custody, provenacne, filtering , replaying events , forking events etc. it also ha a nice live demo showing to use the UI interface for tracking and updating message processing . [slides](http://cdn.oreillystatic.com/en/assets/1/event/129/Beyond%20messaging_%20Enterprise%20dataflow%20with%20Apache%20NiFi%20Presentation.pdf)
+> Conor - Apache NiFi is like JMS queues on steroids , they provide some features that go beyond basic queuing. it talks about chain-of-custody, provenacne, filtering , replaying events , forking events etc. it also ha a nice live demo showing to use the UI interface for tracking and updating message processing . [slides](http://cdn.oreillystatic.com/en/assets/1/event/129/Beyond%20messaging_%20Enterprise%20dataflow%20with%20Apache%20NiFi%20Presentation.pdf)
 
   * 00:39:17 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1323,25 +1325,31 @@ It's something we all do, but how it's done can be haphazard. I'm talking about 
 ### Building apps that run everywhere with HTML5, CSS, JavaScript, and Apache Cordova - Jonathan Stark (Jonathan Stark Consulting) - Part 1
 
 Its a fact: if you have a working knowledge of HTML, CSS, and JavaScript, you already have the tools you need to develop your own web or hybrid apps for mobile. In this session, youll learn how to use these open source web technologies to design and build apps for the iPhone, iPad, Android, etc. on the development platform of your choice”without using Objective-C, Swift, or Java.
+> Conor - an introduction to responsive web design and a simple css solution using the @media command
+> [slides and code examples in zip] (http://files.jstark.co/c0iS)
 
   * 00:46:47 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Building apps that run everywhere with HTML5, CSS, JavaScript, and Apache Cordova - Jonathan Stark (Jonathan Stark Consulting) - Part 2
 
 Its a fact: if you have a working knowledge of HTML, CSS, and JavaScript, you already have the tools you need to develop your own web or hybrid apps for mobile. In this session, youll learn how to use these open source web technologies to design and build apps for the iPhone, iPad, Android, etc. on the development platform of your choice”without using Objective-C, Swift, or Java.
+> Conor - first half covers more advanced usage of @media and how to handle low density and high density screens 
+> second half is a slide based introduction to building webapps that work on your phone with phonegap aka apache cordova 
 
   * 00:42:13 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Building apps that run everywhere with HTML5, CSS, JavaScript, and Apache Cordova - Jonathan Stark (Jonathan Stark Consulting) - Part 3
 
 Its a fact: if you have a working knowledge of HTML, CSS, and JavaScript, you already have the tools you need to develop your own web or hybrid apps for mobile. In this session, youll learn how to use these open source web technologies to design and build apps for the iPhone, iPad, Android, etc. on the development platform of your choice”without using Objective-C, Swift, or Java.
+> Conor - this is a live coding example of a a phonegap based app that is simply a webview wrapper around your website
+. how to use the phonegap build website.  And how to create a native notification (as apposed to a standard javascript alert dialog)
 
   * 00:42:18 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Building apps that run everywhere with HTML5, CSS, JavaScript, and Apache Cordova - Jonathan Stark (Jonathan Stark Consulting) - Part 4
 
 Its a fact: if you have a working knowledge of HTML, CSS, and JavaScript, you already have the tools you need to develop your own web or hybrid apps for mobile. In this session, youll learn how to use these open source web technologies to design and build apps for the iPhone, iPad, Android, etc. on the development platform of your choice”without using Objective-C, Swift, or Java.
-
+> Conor - shows how to use phonegap for more advanced dialog forms, how to access the camera and how to create push notifications. last 15 minuts show how to use chrome browser on pc to diagnoise notjust regular webpages but webview based android apps that are connected via USB.
   * 00:48:18 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Cross-device, cross-platform: Designing for the entire mobile universe - Paris Buttfield-Addison (Secret Lab Pty. Ltd.) and Christopher Neugebauer (@chrisjrn) - Part 1
