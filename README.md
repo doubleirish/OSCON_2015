@@ -234,7 +234,7 @@ The number of frameworks, patterns, platforms, and APIs available has exploded. 
 
 Thanks to Docker and containers, microservices architectures are no longer reserved to large organizations like Netflix or Amazon. Let's review the benefits of those architectures, for Devs and Ops, in projects big and small, and how to realize them with the open source container technology available today.
 
-> Conor –The presentation is less theoritical and has a nice live demo showing how to build and link multiple docker containers with Docker Compose . Also looks at dynamic scaling with Docker swarm [Compose](https://docs.docker.com/compose/) [swarm](https://docs.docker.com/swarm/)
+> Conor –The presentation is less theoritical and has a nice live demo showing how to build and link multiple docker containers with Docker Compose . Also looks at dynamic scaling with Docker swarm [Compose](https://docs.docker.com/compose/) [swarm](https://docs.docker.com/swarm/)  [Slides] (http://cdn.oreillystatic.com/en/assets/1/event/129/Microservices_%20Microservices%20everywhere_%20Presentation.pdf)
 
 *   00:31:18 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1666,7 +1666,8 @@ The Go programming language lets you write high performance network servers with
 
 ### The evolution of the big data platform at Netflix - Eva Tse (Netflix, Inc)
 
-At Netflix, the big data platform is the foundation for analytics that drives all product decisions. As for scale, it is one of the top three largest services running at Netflix. In this talk, you will learn about our open source-powered big data architecture in the AWS cloud, and how we build out the technology stack that comprises the big data platform at Netflix today.
+At Netflix, the big data platform is the foundation for analytics that drives all product decisions. As for scale, it is one of the top three largest services running at Netflix. In this talk, you will learn about our open source-powered big data architecture in the AWS cloud, and how we build out the technology stack that comprises the big data platform at Netflix today. 
+> Conor - It's only 40 minutes, but be prepared to see a reference to every  possible cloud related service imaginable.  Which services does Netflix Use ? Why all of them ! [Slides](http://cdn.oreillystatic.com/en/assets/1/event/129/The%20evolution%20of%20the%20big%20data%20platform%20at%20Netflix%20Presentation.pptx)
 
   * 00:40:06 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1722,7 +1723,10 @@ The new standard for web application development is microservices. In this talk 
 
 In this talk, we'll learn all about Mesos - what it is, how you can leverage it to simplify your infrastructure and reduce AWS/cloud computing costs, and why you should develop your next application on top of it. This talk will give you the tools you need to understand whether Mesos is the right fit for your infrastructure, and several starting points for learning more about Mesos.
 
-> Conor - good overview of mesos , using an operating system anaolgy nice overview of associated tech like marathon, Aurora, spark, DCOS for amazon and playa-mesos for devTesting covers mesos masters , schedulers etc. [slides](http://www.slideshare.net/DavidGreenberg7/mesos-the-operating-system-for-your-datacenter)
+> Conor - good overview of mesos , using an operating system anaolgy nice overview of associated tech like marathon, Aurora, spark, DCOS for amazon and playa-mesos for devTesting covers mesos masters , schedulers etc. [slides](http://www.slideshare.net/DavidGreenberg7/mesos-the-operating-system-for-your-datacenter),
+[DavidGreenberg7](http://www.slideshare.net/DavidGreenberg7),
+[timothysc](http://www.slideshare.net/timothysc/introduction-to-mesos),
+
 
   * 00:40:23 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
