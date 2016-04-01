@@ -1276,6 +1276,8 @@ Unicode is much more than just characters. The Unicode Consortium defines open s
 
 Promises, streams, observables, and behaviors are some of the building blocks of event driven programming. What makes each of these tick and when would you choose one over another?
 
+Conor - Uses EcmaScript 6 to illustrate event processing . Does a good job of building up from simple principles. [Video](https://www.youtube.com/watch?v=2p51PE1MZ8U) [expanded document at github](https://github.com/kriskowal/gtor)
+
 *   00:35:38 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Asp.net vNext: Hey, Asp.net isn't just for enterprise - Maria Naggaga (Microsoft)
@@ -1642,11 +1644,15 @@ This tutorial will enable you to understand and improve the performance of your 
 
 In this three-hour Cassandra tutorial, well explore all the basics youll need to become best buds with this radically scalable, always-on, and increasingly popular database solution.
 
+> Conor - brief overview of Casandra Architecture and then a lab [lab instrctions here](https://gist.github.com/msabramo/ffc71fa23c76538c22be/) and  [link to virtual box vm  used in the lab  ](https://drive.google.com/a/datastax.com/file/d/0B4OC-YC_YFRxclpZbTJxdmJ6NEU/view?usp=sharing) second half covers data modeling and integrtion with spark 
+
   * 01:04:23 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Becoming friends with Cassandra - Dani Traphagen (DataStax) and Jon Haddad (DataStax) - Part 2
 
 In this three-hour Cassandra tutorial, well explore all the basics youll need to become best buds with this radically scalable, always-on, and increasingly popular database solution.
+
+> Conor - Running Spark on top of cassandra . spark lab instrcutions  are on the vm under the spark-training directory
 
   * 00:49:03 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1654,7 +1660,7 @@ In this three-hour Cassandra tutorial, well explore all the basics youll need to
 
 DramaFever, the largest streaming video site for international content, uses AWS to power its streaming video platform, and has been running Docker in production since about October 2013 (well before it even went 1.0). This talk goes into detail about we use Docker to make development more consistent and deployment more repeatable.
 
-> Conor - Recommended - Goes into a variety of problems encountered when actually using docker in production including a variety of issues not discussed often such as growth of log files etc. This as an extremly popular presentation and was given twice to accomodate folks who couldn't squeeze in the room.
+> Conor - Recommended - Goes into a variety of problems encountered when actually using docker in production including a variety of issues not discussed often such as growth of log files etc. This as an extremly popular presentation and was given twice to accomodate folks who couldn't squeeze in the room. [link to video](http://bridgetkromhout.com/speaking/2015/oscon/)
 
   * 00:38:29 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1873,6 +1879,8 @@ Learn about challenges encountered as well as the solutions developed to deliver
 ### Orchestration”fancy buzzword or the inescapable fate of Docker containers? - Connor Doyle (Mesosphere.io)
 
 We will share our experiences around scalability and availability considerations, including service discovery using Mesos-DNS and HAproxy for load-balancing.
+
+> Conor - Scaling and scheduling using the Mesos scheduler.  Uses a two level scheduler a top level  msos scheduler for high level resources and an application-specific scheduler for managing it's own tasks  [Slides](http://www.slideshare.net/connorpdoyle/orchestration-fancy-buzzword-or-the-inevitable-fate-of-docker-containers)
 
   * 00:21:55 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
