@@ -893,7 +893,8 @@ Prototypes allow us to see, touch, feel, and refine ideas and designs. Starting 
 This tool-agnostic tutorial is for those with the software chops and interest to create data visualizations, who want to elevate the look and feel of their work. Attendees will workshop an in-progress data visualization. They will learn design best practices and how to navigate the critique process, and then develop their own work on-site with guidance from two experts.
 
 > Conor - covering Position (similar results should be close together)and color, suggests sketching , avoid 3D anything see reality distortion at minute 19.1
-[How to survive  a critique] (http://www.aiga.org/how-to-survive-a-critique/)
+[How to survive  a critique] (http://www.aiga.org/how-to-survive-a-critique/) , 
+[Slides-PDF](http://cdn.oreillystatic.com/en/assets/1/event/129/Bland%20to%20beautiful_%20Data%20visualization%20workshop%20Presentation.pdf)
 
 
 
@@ -902,8 +903,16 @@ This tool-agnostic tutorial is for those with the software chops and interest to
 ### Bland to beautiful: Data visualization workshop - Julie Steele (Silicon Valley Data Science) and Susie Lu (Silicon Valley Data Science) - Part 2
 
 This tool-agnostic tutorial is for those with the software chops and interest to create data visualizations, who want to elevate the look and feel of their work. Attendees will workshop an in-progress data visualization. They will learn design best practices and how to navigate the critique process, and then develop their own work on-site with guidance from two experts.
-> COnor - covering the dark art of labels and visual weight
-> lots of resouce links at end
+> Conor - covering the dark art of labels and visual weight
+> lots of resouce links 
+http://www.color-blindness.com/coblis-colorblindness-simulator/
+colorbrewer2.org
+paletton.com
+www.iamcal.com/toys/colors/
+wesandersonpalettes.tumblr.com
+practicaltypography.com/
+http://www.aiga.org/how-to-survive-a-critique/
+
 
   * 00:28:38 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -986,7 +995,7 @@ Board games are hard at the best of times “ you have to find friends who have 
 ### Modern accessibility for modern web apps - Patrick Fox (Razorfish)
 
 Building modern, accessible web apps can be daunting. This talk goes beyond the foundational aspects of accessibility to discuss higher-level concepts and challenges for making modern web UI accessible, demonstrating specific solutions and best practices for: -Common UI components(modals, form validation) -Single-page architecture -Summarizing complex content -Providing accessible help text
-> Conor - covers accessibility aka a11y , how to use aria attributes to hint to screen readers and a brief set of guidelines on usage.
+> Conor - covers accessibility aka a11y , how to use aria attributes to hint to screen readers and a brief set of guidelines on usage. particularlly useful  for javascript based web pages that don't normally play weel with screen readers.
 
   * 00:40:52 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -995,6 +1004,8 @@ Building modern, accessible web apps can be daunting. This talk goes beyond the 
 In this session, youll learn about game design: the art and science of constructing enjoyable, engaging games. We aren't doing any coding, and were not talking game engine development - instead, well be taking a deep dive into game design theory, using it to understand how people interact with rules, and how to use it to improve your community, your company, your project, and your software.
 
 > Conor – this is a fun lecture on the theory of building engagement via game theory.
+> [Slides](http://blog.paris.id.au/speaking/oscon-2015/)
+> [youtube](https://www.youtube.com/watch?v=6omrcJ2vujc)
 
   * 00:38:23 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1245,6 +1256,7 @@ We'll take a deep dive down the stack, into how the internet works to magically 
 ### How to think in Go: Stories from a Perl developer turned Go developer - Daisuke Maki (HDE Inc)
 
 Go is quickly becoming one of the many must-have items in our toolboxes. In this talk I will describe the common pitfalls and misunderstandings for people who have an extensive background in interpreted languages like myself. I will tell you all about my failures so you don't have to repeat them!
+> Conor - Nothing as entertaining as other peoples mistakes. Easy to follow even if perl is not your religon of choice. so Goroutines are not threads or processes .  Panics and errors are not the same as Exceptions.  Inheritance doesn't exist in Go so don't try to write your own.
 
 *   00:34:45 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1848,6 +1860,8 @@ This session will analyze all the common needs in container infrastructures to e
 
 The talk will present a quantitative analysis of the major free / open source software projects producing cloud infrastructure and platform systems (IaaS, PaaS): OpenStack, Apache CloudStack, OpenNebula, Eucalyptus, CloudFoundry, and OpenShift. The analysis will focus on the communities behind those projects, their main development parameters, and the trends that can be observed.
 
+Conor - Something wrong with the sound on this video .  lots of [metrics](http://projects.bitergia.com/previews/openstack-ng/). CloudFoundry and OpenStack seem to have momentum and are probably a safe bet. [Slides](http://conferences.oreilly.com/oscon/open-source-2015/public/schedule/detail/44744)
+
   * 00:29:24 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Delivering hybrid bare-metal and virtual infrastructure using Ironic and OpenStack - Bruno Morel (Internap)
@@ -1891,6 +1905,8 @@ Want to manage software on Linux? RPM or Debian packages, apt-get or Yum or Zypp
 ### OpenStack basics -- featuring HP Helion OpenStack - Christopher Cannon (Hewlett-Packard) - Part 1
 
 This is an interactive, informative session for those getting started or wishing to learn more about OpenStack. Join Chris Cannon from the HP Cloud Team for an overview of OpenStack, and a hands-on introduction to HP Helion OpenStack.
+
+
 
   * 00:41:40 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1964,17 +1980,22 @@ This tutorial provides a hands-on introduction to Apache Spark, with coding exer
 
 In this tutorial, we will explore different ways to develop and deploy applications to the cloud via the open source Cloud Foundry and OpenStack environments. This will be a hands-on session where participants will have free access to a Helion cluster for learning and experimentation. The information covered will be applicable to any OpenStack and Cloud Foundry environment.
 
+> Conor - General Cloud overview , overview of OpenStack (IAAS) and HP Helions Tools/Dashboards thate extend Openstack
+
   * 00:44:12 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Developing and deploying cloud native apps on Cloud Foundry and OpenStack with HP Helion - Rajeev Pandey (Hewlett-Packard Company) and Sujay Maheshwari (HP Helion) - Part 2
 
 In this tutorial, we will explore different ways to develop and deploy applications to the cloud via the open source Cloud Foundry and OpenStack environments. This will be a hands-on session where participants will have free access to a Helion cluster for learning and experimentation. The information covered will be applicable to any OpenStack and Cloud Foundry environment.
 
+> Conor - first half Covers Cloud Foundry , which abstracts IaaS details , focuses on running a clusters of related services rather tha single vm. Can sit on top of AWS, openstack , vmware. second half is lab based 
   * 00:31:24 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Developing and deploying cloud native apps on Cloud Foundry and OpenStack with HP Helion - Rajeev Pandey (Hewlett-Packard Company) and Sujay Maheshwari (HP Helion) - Part 3
 
 In this tutorial, we will explore different ways to develop and deploy applications to the cloud via the open source Cloud Foundry and OpenStack environments. This will be a hands-on session where participants will have free access to a Helion cluster for learning and experimentation. The information covered will be applicable to any OpenStack and Cloud Foundry environment.
+
+> Conor - details of how to build a Cloud Foundry manifest file which describes all the resources your applicatin service cluster needs, walks through each of the [12 factors](http://12factor.net/) and illustrates how CF applies to it.
 
   * 00:56:50 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
