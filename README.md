@@ -1271,13 +1271,14 @@ You've decided to level up your Git skills and have heard that rebasing is where
 
 Unicode is much more than just characters. The Unicode Consortium defines open standards for collating, parsing, and formatting data in much of the worlds languages. The Common Locale Data Repository (CLDR) is the largest standard repository of locale data along with specifications for its use, and is a powerful resource for software localization.
 
+ 
 *   00:36:51 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### A general theory of reactivity - Kris Kowal (Uber)
 
 Promises, streams, observables, and behaviors are some of the building blocks of event driven programming. What makes each of these tick and when would you choose one over another?
 
-Conor - Uses EcmaScript 6 to illustrate event processing . Does a good job of building up from simple principles. [Video](https://www.youtube.com/watch?v=2p51PE1MZ8U) [expanded document at github](https://github.com/kriskowal/gtor)
+> Conor - Uses EcmaScript 6 to illustrate event processing . Does a good job of building up from simple principles. [Video](https://www.youtube.com/watch?v=2p51PE1MZ8U) [expanded document at github](https://github.com/kriskowal/gtor)
 
 *   00:35:38 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1297,9 +1298,9 @@ Many classic design patterns and traditional Python idioms remain relevant today
 
 In true open source fashion, a community's failures are often as visible as their successes. Failing can provide a learning experience, but many mistakes are still made which can easily be avoided, even by experienced open source communities. Learn about these points of fail that open source projects have experienced, and see how badly your favorite FOSS project fails.
 
-*   **Conor – A way of encouraging bottom up innovation , rather than top down directives. The presentation is 40 minuts but the questions at the end are good too.**
+ 
 
-> Conor – Recommended - Humorous points based system for calculating the quality of packaged software. SirasLib would be a good example of packaged software we provide that could be scored
+> Conor – Recommended - Humorous points-based system for calculating the quality of packaged software. SirasLib would be a good example of packaged software we provide that could be scored
 
 *   00:44:44 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1329,7 +1330,7 @@ The IPython Notebook is perfect for many data science tasks, including rapid ite
 
 It's something we all do, but how it's done can be haphazard. I'm talking about troubleshooting, an often under appreciated skill. This talk will get you thinking about this critical discipline in a more formal way. We'll cover: Strategies: recipes to quickly get you from "broken" to "fixed"; Virtues: the mindset and behavior of a good troubleshooter; Cleaning up: learning from failures.
 
-> Conor – He touches the surface of a few of his strategies in this session . more strategies are available here He touches the surface of a few strategies. more strategies are available here [strategies](http://artoftroubleshooting.com/strategies/) and a free book at [book](http://artoftroubleshooting.com/strategies/)
+> Conor – He touches the surface of a few of his strategies in this session . more strategies are available here  [strategies](http://artoftroubleshooting.com/strategies/) and a free book at [book](http://artoftroubleshooting.com/strategies/)
 
 *   00:38:56 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1867,7 +1868,7 @@ This session will analyze all the common needs in container infrastructures to e
 
 The talk will present a quantitative analysis of the major free / open source software projects producing cloud infrastructure and platform systems (IaaS, PaaS): OpenStack, Apache CloudStack, OpenNebula, Eucalyptus, CloudFoundry, and OpenShift. The analysis will focus on the communities behind those projects, their main development parameters, and the trends that can be observed.
 
-Conor - Something wrong with the sound on this video .  lots of [metrics](http://projects.bitergia.com/previews/openstack-ng/). CloudFoundry and OpenStack seem to have momentum and are probably a safe bet. [Slides](http://conferences.oreilly.com/oscon/open-source-2015/public/schedule/detail/44744)
+> Conor - Something wrong with the sound on this video .  lots of [metrics](http://projects.bitergia.com/previews/openstack-ng/). CloudFoundry and OpenStack seem to have momentum and are probably a safe bet. [Slides](http://conferences.oreilly.com/oscon/open-source-2015/public/schedule/detail/44744)
 
   * 00:29:24 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
