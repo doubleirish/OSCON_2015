@@ -741,6 +741,7 @@ Get started with d3.js, the most powerful JavaScript tool for creating data visu
 ### An introduction to d3.js: From scattered to scatterplot - Scott Murray (University of San Francisco) - Part 4
 
 Get started with d3.js, the most powerful JavaScript tool for creating data visualizations on the web. We'll start from scratch, and build an interactive scatterplot by the end of the session.
+> Conor - Covers Axis and scaling
 
   * 00:41:01 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
