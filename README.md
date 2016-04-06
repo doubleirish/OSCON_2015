@@ -2012,7 +2012,7 @@ In this tutorial, we will explore different ways to develop and deploy applicati
 ### Cloud Foundry on OpenStack “ open source enterprise PaaS for developers - Jeff Ruby (Intel)
 
 OpenStack has gained a lot of attention for its ability to deliver an open software-defined infrastructure in an on-demand, self-service manner. This session will highlight key learnings from deploying Cloud Foundry on OpenStack into production from Intel IT; future direction; and efforts to improve the deployment of OpenStack and Cloud Foundry within the enterprise.
-
+> Conor - High level introduction to cloud foundry (paas) running on openstack (iaas)
   * 00:26:32 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Open source era of innovation- taking over the world of cloud applications - one at a time - Andrew Hately (IBM) and Jason McGee (IBM)
@@ -2160,6 +2160,8 @@ Dan Makoski, VP design, will share how the nations largest direct bank is using 
 ### Enabling cloud-native application development with microservices - Ben Schumacher (Cisco)
 
 As teams transition to the world of Fast IT, they need their development lifecycles to keep up. Typical tools require teams dedicate resources for SCM and platform services. Is there an easier way to enable teams to build nextgen applications? Enter the world of Hybrid DevOps, and reach the goal of enabling teams to easily deploy and run their products across hybrid clouds and the Intercloud.
+
+> Conor - Cisco have created their own Microservices Infrastsucture stack called Microservices Infrastsucture" in these slides fortunately they got a better name now and an icon  [cisco mantl](https://github.com/CiscoCloud/mantl)  the version they review in the slides is a very early v0.3 version , they went v1.0 with mantl in Feb 2016. mantl can work on AWS or openstack and uses best of breed technologies underneath.g kafka, docker, cassandrea ,etcd, etc
 
   * 00:38:49 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
