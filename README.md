@@ -1876,6 +1876,9 @@ The talk will present a quantitative analysis of the major free / open source so
 
 Learn about challenges encountered as well as the solutions developed to deliver hybrid bare-metal and virtual infrastructure solutions on the OpenStack platform.
 
+> Conor -  Some business want to more than a container or vm and want access to the the bare-metal server.  provisioning bare-metal servers  presents a unique set of concerns , which this baremetal provider go over.
+[video at openstack](https://www.openstack.org/summit/tokyo-2015/videos/presentation/delivering-hybrid-bare-metal-and-virtual-infrastructure-using-ironic-and-openstack)
+
   * 00:18:46 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Orchestration”fancy buzzword or the inescapable fate of Docker containers? - Connor Doyle (Mesosphere.io)
@@ -2073,6 +2076,8 @@ We'll discuss concrete steps your company can take to become a good citizen in v
 
 Take advantage of F5 scalable application delivery services to accelerate your application development process and migration to cloud architectures. Integrate with open source orchestration and cloud frameworks Puppet, Chef, Ansible, and OpenStack, enable automation and management of entire application stacks, starting at the server level and moving up to network and security services.
 
+> Conor - TODO
+
   * 00:30:22 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Open source at 18 - The challenges of post-adolescence - Danese Cooper (PayPal)
@@ -2084,6 +2089,7 @@ As Open Source moves out of its teen years, more and more practitioners are youn
 ### Evolution of information security threats - Jarret Raim (Rackspace) and Laurens Van Houtven (Rackspace)
 
 The landscape of information security has changed significantly over the last few years. Increasing amounts of economic value are directly linked to computer infrastructure, making that infrastructure increasingly interesting as a target for malicious actors, both state and private. In this talk, we'll explore this evolving problem space, and how Rackspace is helping solve problems in this space.
+> Conor - A high level overview of how attacks and especially Advanced-Persistent-Threats have evolved and specialized. The average breach is $5 million. Rackspace provides a security-as-a-service offer for smaller businesses that can't afford a dedicated securtiy team. [similar video at rackspace](http://solve.rackspace.com/videos/new-york-city-2016/the-evolution-of-information-security-threats/)
 
   * 00:45:08 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
