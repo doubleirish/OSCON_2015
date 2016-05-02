@@ -2321,6 +2321,8 @@ This session will expose you to a broad range of web security vulnerabilities an
 
 This is a live demonstration of hacking into the processor embedded in an SD card, effectively turning the device into a covert Raspberry Pi-class computer under your complete control -- running Linux. There will be a discussion of similar attacks against ARM processors embedded in current HDD drive controllers.
 
+> Conor- the WIFI enabled Micro SD card of the Transcend brand has a small microcontroler on it on which you can load busybox, run you own web server, add ssh etc
+
   * 00:45:14 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Protecting the future of mobile payments - Jonathan LeBlanc (PayPal / Braintree)
@@ -2475,6 +2477,8 @@ Do you need to build a recommendation engine like yesterday and have no idea whe
 ### Solve optimization problems using swarm intelligence - James McCaffrey (Microsoft)
 
 Swarm intelligence (SI) algorithms mimic the behaviors of groups such as flocks of birds and schools of fish. This session describes in detail four major SI algorithms: amoeba method optimization, particle swam optimization, simulated bee colony optimization, and firefly algorithm optimization. Attendees will receive Python source code for each algorithm.
+
+> Conor - shows how various swarm techniques can be used to solve optimization problems e.g the "travelling salesman problem" which would otherwuse be very inefficient to calculate.  The presentation helps guide newbies through the terminology. 
 
   * 00:44:03 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
