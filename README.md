@@ -1777,12 +1777,16 @@ Internet Archive has released a number of open APIs and tools to allow people to
 ### Kubernetes Bootcamp: Get up to speed with Docker and Kubernetes - Zed Shaw (Mesosphere) - Part 1
 
 This one-day course provides you with an end-to-end understanding of Linux containers and how to operate and orchestrate them at scale. It will teach you about the low-level concepts that make up Linux containers, best practices on Docker containers, as well as how to orchestrate them using Kubernetes.
+conor > first half is an explaination of how chroot and cgroups enable docker. Second half of presentation goes off the rails a bit in the labs they try to set a google-compute-engine instance.
+[slides in markdown format](https://github.com/mesosphere/k8s-bootcamp)
 
   * 00:56:41 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Kubernetes Bootcamp: Get up to speed with Docker and Kubernetes - Zed Shaw (Mesosphere) - Part 2
 
 This one-day course provides you with an end-to-end understanding of Linux containers and how to operate and orchestrate them at scale. It will teach you about the low-level concepts that make up Linux containers, best practices on Docker containers, as well as how to orchestrate them using Kubernetes.
+
+conor > provides some basic docker commands , the difference between containers and images , how to examine/inspect the images
 
   * 00:33:29 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
