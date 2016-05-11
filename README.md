@@ -1589,7 +1589,7 @@ This is not a typo: we are going to demonstrate and compare different orchestrat
 
 This is not a typo: we are going to demonstrate and compare different orchestration systems, for scales both big and small. Within the span of this tutorial, we will build clusters together using open source software like Swarm, Mesos, and others.
 
-> Conor - covers how to upgrade docker in production , applying security upgeades toimages ns libraries  . Also how to run network trace tools like ngrep on a docker container which is sharing it's network stack amongst multiple containers .
+> Conor - covers how to upgrade docker in production , applying security upgrades to images  libraries  . Also how to run network trace tools like ngrep on a docker container which is sharing it's network stack amongst multiple containers .
 in the second half covers integration with Mesos, kubernetes and swarm 
 
   * 00:38:15 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
@@ -1786,25 +1786,29 @@ conor > first half is an explaination of how chroot and cgroups enable docker. S
 
 This one-day course provides you with an end-to-end understanding of Linux containers and how to operate and orchestrate them at scale. It will teach you about the low-level concepts that make up Linux containers, best practices on Docker containers, as well as how to orchestrate them using Kubernetes.
 
-conor > provides some basic docker commands , the difference between containers and images , how to examine/inspect the images
+conor > provides some basic docker commands , the difference between containers and images , how to examine/inspect the images.  Second half is about acquiring computing resources using google compute engine (GKE) that will be used in the following labs
 
   * 00:33:29 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Kubernetes Bootcamp: Get up to speed with Docker and Kubernetes - Zed Shaw (Mesosphere) - Part 3
 
 This one-day course provides you with an end-to-end understanding of Linux containers and how to operate and orchestrate them at scale. It will teach you about the low-level concepts that make up Linux containers, best practices on Docker containers, as well as how to orchestrate them using Kubernetes.
+> conor  The lab is pretty confusing and contradictory, kubernetes offial launch was the same day so the lab feels beta and hacked together
 
   * 00:53:10 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Kubernetes Bootcamp: Get up to speed with Docker and Kubernetes - Zed Shaw (Mesosphere) - Part 4
 
 This one-day course provides you with an end-to-end understanding of Linux containers and how to operate and orchestrate them at scale. It will teach you about the low-level concepts that make up Linux containers, best practices on Docker containers, as well as how to orchestrate them using Kubernetes.
+> conor  the last lab failed so this is a marginally improved redo of the hello-world lab and with a more complex word-press and mysql pod lab
 
   * 00:51:21 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Kubernetes Bootcamp: Get up to speed with Docker and Kubernetes - Zed Shaw (Mesosphere) and Aaron Bell (Mesosphere) - Part 5
 
 This one-day course provides you with an end-to-end understanding of Linux containers and how to operate and orchestrate them at scale. It will teach you about the low-level concepts that make up Linux containers, best practices on Docker containers, as well as how to orchestrate them using Kubernetes.
+
+> conor there's a nice round-up at the 20 minute mark and the remainder is Q&A.
 
   * 00:59:14 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -2178,6 +2182,8 @@ As teams transition to the world of Fast IT, they need their development lifecyc
 ### High scale relational storage at Salesforce built with Apache HBase and Apache Phoenix - Andrew Purtell (Salesforce)
 
 This session will cover how the Data Platform and Services group at Salesforce.com built a multitenant storage platform, that supports structured relational data access using the open source nonrelational scale-out datastore Apache HBase and its open source "SQL skin" Apache Phoenix.
+
+> Conor - adding a relational SQL skin over the non-relation HBASE platform using Apache Phonix.
 
   * 00:40:32 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
