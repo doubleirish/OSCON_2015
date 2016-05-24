@@ -2253,11 +2253,17 @@ Join Meteor expert Josh Owens as he walks through live coding a Meteor.js app fr
 
 Microservices are taking over our production environments and a new approach to managing applications will be required in order to scale and address new challenges that arise. In this tutorial you'll take a hands-on approach to learning how to solve these problems from the ground up with CoreOS, the container optimized OS, and Kubernetes, the latest open source orchestration system for containers.
 
+> Conor - the first part of the presentation is a high level introduction to the main ccomponents of kubernetes, e.g nodes, pods, service controller, replication controllers, schedullers etc.
+The second part  goes into the very low details of  setting up the google cloud compute instances that will be used in the lab and configuring the network so that those components can talk to each other,.
+
+[github workshop](https://github.com/kelseyhightower/intro-to-kubernetes-workshop)
+
   * 01:01:08 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Taming microservices with CoreOS and Kubernetes - Kelsey Hightower (CoreOS) - Part 2
 
 Microservices are taking over our production environments and a new approach to managing applications will be required in order to scale and address new challenges that arise. In this tutorial you'll take a hands-on approach to learning how to solve these problems from the ground up with CoreOS, the container optimized OS, and Kubernetes, the latest open source orchestration system for containers.
+> conor - managing and creatin pods, and services. how to scale out pods,  services and load balancing with nginex
 
   * 00:43:11 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -2265,6 +2271,8 @@ Microservices are taking over our production environments and a new approach to 
 
 Microservices are taking over our production environments and a new approach to managing applications will be required in order to scale and address new challenges that arise. In this tutorial you'll take a hands-on approach to learning how to solve these problems from the ground up with CoreOS, the container optimized OS, and Kubernetes, the latest open source orchestration system for containers.
 
+> conor - How to do rolling updates, implementing the canary pattern   and Sky DNS. 
+ finishes with a review of the kubernetes admin ui .
   * 00:50:26 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
   * Identity, privacy, and security are emerging and nuanced facets in the digital age and an exciting cross-functional track at OSCON 2015
