@@ -1777,7 +1777,7 @@ Internet Archive has released a number of open APIs and tools to allow people to
 ### Kubernetes Bootcamp: Get up to speed with Docker and Kubernetes - Zed Shaw (Mesosphere) - Part 1
 
 This one-day course provides you with an end-to-end understanding of Linux containers and how to operate and orchestrate them at scale. It will teach you about the low-level concepts that make up Linux containers, best practices on Docker containers, as well as how to orchestrate them using Kubernetes.
-conor > first half is an explaination of how chroot and cgroups enable docker. Second half of presentation goes off the rails a bit in the labs they try to set a google-compute-engine instance.
+> conor - first half is an explaination of how chroot and cgroups enable docker. Second half of presentation goes off the rails a bit in the labs they try to set a google-compute-engine instance.
 [slides in markdown format](https://github.com/mesosphere/k8s-bootcamp)
 
   * 00:56:41 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
@@ -1786,7 +1786,7 @@ conor > first half is an explaination of how chroot and cgroups enable docker. S
 
 This one-day course provides you with an end-to-end understanding of Linux containers and how to operate and orchestrate them at scale. It will teach you about the low-level concepts that make up Linux containers, best practices on Docker containers, as well as how to orchestrate them using Kubernetes.
 
-conor > provides some basic docker commands , the difference between containers and images , how to examine/inspect the images.  Second half is about acquiring computing resources using google compute engine (GKE) that will be used in the following labs
+> conor - provides some basic docker commands , the difference between containers and images , how to examine/inspect the images.  Second half is about acquiring computing resources using google compute engine (GKE) that will be used in the following labs
 
   * 00:33:29 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -2035,6 +2035,11 @@ Lessons learned from building and deploying customer applications on the platfor
 ### Using open source tools to secure containers and clouds - Derek Thurston (Booz Allen Hamilton)
 
 Is your cloud secure? Is your cloud of containers secure? Security should be built-in from Day Zero, and not layered in as an afterthought. What open source tools are out there now to help you in your quest to not be on the front page of the news? How are all of the latest hacks happening, and how can we put tools in place to prevent these from happening again?
+>conor - using OpenSCAP and other tools to secure your docker host and containers .  
+shows how to use readygov.sh to set up openSCAP.   also has a shout out to keywhiz for secure storage of secrets e.g cryptographic keys etc
+[slides ppt](http://cdn.oreillystatic.com/en/assets/1/event/129/Using%20open%20source%20tools%20to%20secure%20containers%20and%20clouds%20Presentation.ppt)
+
+https://github.com/docker/docker-bench-security and https://dockerbench.com
 
   * 00:34:59 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -2272,7 +2277,7 @@ Microservices are taking over our production environments and a new approach to 
 Microservices are taking over our production environments and a new approach to managing applications will be required in order to scale and address new challenges that arise. In this tutorial you'll take a hands-on approach to learning how to solve these problems from the ground up with CoreOS, the container optimized OS, and Kubernetes, the latest open source orchestration system for containers.
 
 > conor - How to do rolling updates, implementing the canary pattern   and Sky DNS. 
- finishes with a review of the kubernetes admin ui .
+ Finishes with a review of the kubernetes admin ui .
   * 00:50:26 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
   * Identity, privacy, and security are emerging and nuanced facets in the digital age and an exciting cross-functional track at OSCON 2015
