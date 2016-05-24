@@ -1372,6 +1372,8 @@ Its a fact: if you have a working knowledge of HTML, CSS, and JavaScript, you al
 
 Its a big world for small devices, and you need to be able to design not just for Android and iPhone, but the mobile world beyond as well. Over the course of this tutorial, youll learn critical skills in thinking about problems in a mobile context, how to apply these skills to address app design problems on any mobile platform, and how to design for future improvement.
 
+> Conor - writting apps for mobile is harder as you have to narrow your focus.  This deck shows how to write apps thar are designed for the limitations and features of mobile.  [slides on blog](https://blog.paris.id.au/speaking/oscon-2015/)
+
   * 01:04:37 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Cross-device, cross-platform: Designing for the entire mobile universe - Paris Buttfield-Addison (Secret Lab Pty. Ltd.) and Christopher Neugebauer (@chrisjrn) - Part 2
@@ -2036,7 +2038,7 @@ Lessons learned from building and deploying customer applications on the platfor
 
 Is your cloud secure? Is your cloud of containers secure? Security should be built-in from Day Zero, and not layered in as an afterthought. What open source tools are out there now to help you in your quest to not be on the front page of the news? How are all of the latest hacks happening, and how can we put tools in place to prevent these from happening again?
 >conor - using OpenSCAP and other tools to secure your docker host and containers .  
-shows how to use readygov.sh to set up openSCAP.   also has a shout out to keywhiz for secure storage of secrets e.g cryptographic keys etc
+shows how to use   [govready](https://github.com/GovReady/govready) to assist with openSCAP.   also has a shout out to keywhiz for secure storage of secrets e.g cryptographic keys etc
 [slides ppt](http://cdn.oreillystatic.com/en/assets/1/event/129/Using%20open%20source%20tools%20to%20secure%20containers%20and%20clouds%20Presentation.ppt)
 
 https://github.com/docker/docker-bench-security and https://dockerbench.com
@@ -2124,6 +2126,11 @@ Every company is a software company, but crafting good software is hard. This pr
 
 Mobile web apps shouldn't stop working when there's no network connection. Based on Apache CouchDB, PouchDB is an open source syncing JavaScript database that runs within a web browser. Learn how to use HTML5, PouchDB, IBM Cloudant, and IBM Bluemix to build and deploy offline-first mobile web apps that provide a better, faster user experience both offline and online.
 
+> Conor -  pouchDB is a mobile version of the couchDB that allows for local storage and later on-line syncronization/replication with a CouchDB database.  replication can be configured in either direction. images can be sent as attachements.
+[annotated slides ](https://storify.com/BradleyHolt/offline-first-mobile-web-apps?cm_mc_uid=22893302077514641208233&cm_mc_sid_50200000=1464120823)
+
+https://pouchdb.com/
+
   * 00:37:57 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Development, testing, acceptance and production with Docker and Kubernetes - Patrick Reilly (Kismatic, Inc.)
@@ -2155,6 +2162,10 @@ This talk takes the audience inside the architectural foundation of a modern clo
 ### Accelerating the core of the cloud - Greg Bentley (Intel)
 
 In this presentation, well talk about the work Intel is doing to improve server dynamic languages and some of the successes weve achieved, as well as future challenges and how we can help.
+
+> Conor - Java has  a just-in-time optimiizer but many languages like php, python and GO don't.  This sponsored talk 
+shows how intel  can take usage profiles and use that to optimize performance of languages like php and python.
+[slides pdf](http://events.linuxfoundation.org/sites/events/files/slides/Accelerating%20the%20Core%20of%20the%20Cloud%20LCNA%20davest.pdf)
 
   * 00:25:58 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
