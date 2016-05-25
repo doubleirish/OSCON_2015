@@ -1014,6 +1014,10 @@ In this session, youll learn about game design: the art and science of construct
 
 So you want to turn your cool hardware device into a new product”what could possibly go wrong? If youve ever helped crowdfund a hardware product, then youve probably gotten some insight into many of the things that do go wrong. This talk will explore some common mistakes and why, despite the challenges, an open-source approach to hardware manufacturing makes sense.
 
+Conor > A call to arms  for the open sourcing  of hardware specs.
+[Building Open
+Source Hardware PDF](http://ptgmedia.pearsoncmg.com/images/9780321906045/samplepages/9780321906045.pdf)
+
   * 00:47:00 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### UX for open source: Getting the most from an engaged community - Joe Wagner (Puppet Labs)
