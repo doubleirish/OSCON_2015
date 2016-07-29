@@ -1014,9 +1014,8 @@ In this session, youll learn about game design: the art and science of construct
 
 So you want to turn your cool hardware device into a new product”what could possibly go wrong? If youve ever helped crowdfund a hardware product, then youve probably gotten some insight into many of the things that do go wrong. This talk will explore some common mistakes and why, despite the challenges, an open-source approach to hardware manufacturing makes sense.
 
-Conor > A call to arms  for the open sourcing  of hardware specs.
-[Building Open
-Source Hardware PDF](http://ptgmedia.pearsoncmg.com/images/9780321906045/samplepages/9780321906045.pdf)
+> Conor  A call to arms  for the open sourcing  of hardware specs. handy the next time you want to flash the firmware on your router  because there's a security issue in the original unsuported software.
+[Building Open Source Hardware PDF] (http://ptgmedia.pearsoncmg.com/images/9780321906045/samplepages/9780321906045.pdf)
 
   * 00:47:00 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -1058,17 +1057,23 @@ Youve got mad computer hacking skills, and an app idea to take over the world! B
 
 Got the basics of Python down but want to dig in a little more? Have you wondered about functional programming, closures, decorators, context managers, generators, or list comprehensions, and when you should use them and how to test them? This hands-on tutorial will cover these intermediate subjects in detail, by applying them to programming a drone.
 
+> Conor teaching  python by supplying commands to python-enabled mini-drones. this lesson covers the basics of functions, lamdas and map , reduce and filter operations in python
+
   * 00:43:21 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Decorating drones: Using drones to delve deeper into intermediate Python - Matt Harrison (MetaSnake) - Part 2
 
 Got the basics of Python down but want to dig in a little more? Have you wondered about functional programming, closures, decorators, context managers, generators, or list comprehensions, and when you should use them and how to test them? This hands-on tutorial will cover these intermediate subjects in detail, by applying them to programming a drone.
 
+> Conor - Using Context manager to  hide boilerplate, function metadata, *args and **kwargs
+
   * 00:28:11 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ### Decorating drones: Using drones to delve deeper into intermediate Python - Matt Harrison (MetaSnake) - Part 3
 
 Got the basics of Python down but want to dig in a little more? Have you wondered about functional programming, closures, decorators, context managers, generators, or list comprehensions, and when you should use them and how to test them? This hands-on tutorial will cover these intermediate subjects in detail, by applying them to programming a drone.
+
+> Conor -Higher order functions, functions that accept functions or return functions, decorator templates
 
   * 00:22:16 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
@@ -2537,6 +2542,9 @@ The way math equations are written and represented have a long history that's wo
 ### Unconventional programming with chemical computing - Carin Meier (Cognitect)
 
 Take a step back from your normal programming approach and discover a new way of looking at problems. All living organisms' information systems are based on chemical processes. What can we learn by using this metaphor of chemistry in our programming?
+
+> Conor - fascinating talk on how to use chemical reactions to simulate computation.  Has a cool UI to simulate the parallel molecular collisions and calculations.  
+[github gigasquid](https://github.com/gigasquid/chemical-computing)
 
   * 00:38:44 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
