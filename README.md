@@ -1459,6 +1459,8 @@ The Internet of Things is built on open source software, and yet the devices are
 
 Ruth Suehle and Tom Callaway, authors of _Raspberry Pi Hacks_ (OReilly, December 2013) offer technical tips for makers, hackers, and tinkerers who want to take advantage of the Raspberry Pi. You'll learn universally useful things, like how to add a power switch, followed by a show-and-tell of fun things that Ruth and Tom as well as many others have built.
 
+> Conor - lots of good suggestions on care and operation of your Pi , getting started with some popular distros and a review of some popular hacks.
+
   * 00:55:04 [Download](http://conferences.oreilly.com/oscon/open-source-2015/public/sv/q/724)
 
 ## Scale and Performance
